@@ -134,9 +134,9 @@ A high steaks job came in one night, at least that's the impression. The informa
 
 > {{Buttercup}}: Minimal security, easy break-in points made this hit a done deal according to the contact’s informant. The intel came from a hacker who is joining us to get us by and covering our tracks. I hate relying on some dork behind desk, staring at a screen. I hope his eyes burn from too much exposure after this. Whatever, I’m going to make this a quick job, and get back to training. I’m just at the edge of a new level in the slugging business, but I just need a little bit more money. I’ve gotta make sure this job gets done without a hitch. 
 
->{{Buttercup}}: Hey hackerman
+> >{{Buttercup}}: Hey hackerman
 
->{{Bubbles}}: My gender does  not matter”
+> >{{Bubbles}}: My gender does  not matter”
 
 >{{Buttercup}}: Well you matter now. What’s your guess on this job
 
