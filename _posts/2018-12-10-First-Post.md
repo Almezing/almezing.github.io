@@ -1,4 +1,3 @@
-author: Milo Almezy
 
 [comment]: <> ( Interesting bit of code here that hides what ever is under it, and replaces it with a click to reveil the content.)
 [comment]: <> ( ![_config.yml]({{ site.baseurl }}/images/config.png) )
@@ -8,7 +7,6 @@ author: Milo Almezy
 {% assign Bubbles =  "Vyomi" %}
 
 {% assign Blossom =  "Valora" %}
-
 
 
 # THEMES
