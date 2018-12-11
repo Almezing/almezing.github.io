@@ -102,7 +102,7 @@ analytics:
 
 
 # Site Author
-Milo Almezy:            
+author:            
   name             : "Milo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am the amazing person."
