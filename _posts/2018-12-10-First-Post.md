@@ -40,7 +40,7 @@ A Small private military company mostly consisting of female mercenaries, soldie
 
 ### Professor Lumpkins (May need to change):
 
-Professor Lumpkins, also known as "Fuzzy", is a researcher working in agriculture and food processing trying to find solutions to reducing greenhouse gas productions, food alternatives, and mass hunger that is rampant in the world. He stumbles on one possible solution that led to him to becoming hysteric in how he described it as "effective and efficient" to solving all three problems.
+Professor Lumpkins, also known as "Fuzzy" by his colleagues and students, is a researcher working in agriculture and food processing trying to find solutions to reducing greenhouse gas productions, food alternatives, and mass hunger that is rampant in the world. He stumbles on one possible solution that led to him to becoming hysteric in how he described it as "effective and efficient" to solving all three problems.
 
 ### AmIba Securities and Informatics (Represents the Amoeba Boys. Works with Abracavader):
 
