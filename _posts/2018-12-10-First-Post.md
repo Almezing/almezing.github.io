@@ -127,6 +127,8 @@ A high steaks job came in one night, at least that's the impression. The informa
 # Episodic stories?
 # How the girls meet. 
 
+[Starts with {{Buttercup}}'s perspective]
+
 {{Buttercup}} needed extra cash to prepare for her next match that will happen overseas. The plane tickets themselves will run her more than what she saved from previous matches. But this match is the be all and end all of her her underground career that’ll shoot her towards rockstar status or send her spiraling down like a turd in a toilet. She’ll be in  the vanguard team of the operation. The goal? Break into a HIM weapons warehouse to steal developmental schematics and experiment weapons. The hit goes wrong, {{Buttercup}} ends up in the hospital where Blossom works. {{Bubbles}} keeps track on {{Buttercup}} for she feeds responsible for what happened. Hacker is unknown till later.
 
 > {{Buttercup}}: Minimal security, easy break-in points made this hit a done deal according to the contact’s informant. The intel came from a hacker who is joining us to get us by and covering our tracks. I hate relying on some dork behind desk, staring at a screen. I hope his eyes burn from too much exposure after this. Whatever, I’m going to make this a quick job, and get back to training. I’m just at the edge of a new level in the slugging business, but I just need a little bit more money. I’ve gotta make sure this job gets done without a hitch. 
@@ -161,14 +163,13 @@ A high steaks job came in one night, at least that's the impression. The informa
 
 [Will come back to flesh out the parts leading up to the job going wrong. So far it was due to bad intel and underestimation which led to a “trap”]
 
-Vanguard arrived at the point of entry. This side point was found to be the quickest but safest way into where the assets were being held. An entry midway between office area and basement where the other asset is housed and escape route is mapped to the rendezvous point. The facility looked heavily guarded from the outside, but the intel suggest this was only a front due intel suggest the interior will nearly be empty of patrols. The first assets resides on a computer desk somewhere in the office space. It was sent and stored there about a week ago. It could have been deleted after sitting for so long, but traces of it can be recovered. 
+Vanguard arrived at the point of entry. This side point was found to be the quickest but safest way into where the assets were being held. An entry midway between office area and basement where the other asset is housed and escape route is mapped to the rendezvous point. The facility looked heavily guarded from the outside, but the intel suggest this was only a front and the interior will nearly be empty of patrols. The first assets resides on a computer desk somewhere in the office space. It was sent and stored there about a week ago. It may have been deleted after sitting for so long, but traces of it can be recovered. 
 
 [might name the crew members]
 
 The crew consisted of a ragtag character all trying to make a quick buck. There’s the wanna be gangster, the hot headed bimbo, literally some kid, the usual big guy, and the butch chick. 
 
 [The crew makes their way pass guards to gain the first assets. They make a safe venture to the office space while {{Bubbles}}, with the help of the kid lookout, hack through the facility’s security, and extract the schematic blueprint onto a storage chip. Then they make their way down to the basement. Security got heavier. The crew were nearly caught to make their way down. Their paced need to slow down until getting into where the weapon crate was to be found. They needed to broke through one final down, but minutes later the alarm sounded off. The the sound shocked through the entire crew, defying their expectations. Guard where heard making their way to the area. ]
-
 
 The job was a disaster. Bullets are flying down the corridor. Some are ricocheting off the security door at the back. AmIba guards must have brought in they’re H.I.M. issued tech just for this hit. All it took was one stray ricocheting into the eye socket of the poor bastard carrying the schematic documents. The crew member slumped back against the wall, loosening his grip on his weapon to use the rest of his final moments to maneuver the memory card out from his coat pocket but his arm went limp, as did his entire body. The chip was snatch by the kid-lookout hiding behind the thin corner that narrows the hallway, where the rest of the vanguard team were locked down.
 
