@@ -13,7 +13,7 @@ Morally gray, relatable, empathy, sympathy, corruption, sacrifice, forbidden, te
 The girls are experiments. Each created to test a specific hypothesis the Professor wanted to answer. He could not enclose them in a lab for monitoring. The data gathered would be too limited for anything meaningful. He needed to gather data on them in the open world, to yield promising results. With the largest conglomerate entity at his finger types, he set up a system that’ll monitor the girls, at every moment of their lives. Only then he’ll be able to put forth his answers. 
 # Characters of TSV Megalopolis
 
-### Professor Utonium (Plutonium is element 94. Indium is element 49. V-indium): 
+### Professor Utonium (Plutonium is element 94. Indium is element 49. Professor Vindium): 
 A scientist whose success in various research topic led to him becoming the CEO of his conglomerate, Utonium Industries Group (Vindium Industries Group, which operates in healthcare, pharmaceuticals, food production and services, technical and urban infrastructure, and education. Being in a powerful position, he manages his empire with a conclave of confidants, but is very involved in some minor management at rungs of the the conglomerate later. Some say he has somewhat a controlling charisma.
 
 ### Mojo Jojo (shorten to Jojo, may need to change):
