@@ -44,6 +44,10 @@ Concept based off of Hatsune Miku, Jinx (LoL)
 
 {{Bubbles}} grew up like any other kid in the crowded neighborhoods of TSV Megalopolis, or she'd had hoped. She played and ran with the other kids, until the accident. It's hardly a tragedy a kid would get hurt or even killed in the high speed disorder of the city. The accident happened too fast for anyone to remember who was involved, but people were left wondering. The report on the news the next day had found no body, but only an arm and a leg that only suggest they came from a child. {{Bubbles}} watched the news report while fidgeting with the silky and polished arm as the shine from the TV glistened upon it. Left traumatized and ashamed, she dared not go out beyond the home she grew up in. Eventually, {{Bubbles}} grew a stronger presence in the net connected world, where she earns a living in cyber warfare.
 
+### {{Bubbles}} V3
+
+Growing up sheltered from most of world, {{Bubbles}} keeps to herself in her room. Her guardian rarely sees {{Bubbles}} leave her room other than for necessities, and wonders if the girl will ever leave the place to look for work or even a better, fuller life. But {{Bubbles}}' world is full of potential in the online space. Social networking, ecommerse and other online venues provide many opportunities. Especially the darknet, where {{Bubbles}} finds herself work as a competent hacker, which proves more than useful as the darknet is a dangerous place in an ever increasingly digital world. There, she learned to be vigiliant and rarely trusting anyone she encounters. However, having immersed herself in the net-connected space for so long the, hte feeling for belonging  and companionship lingers.
+
 ***
 
 Blossom ({{Blossom}}) - alias: Best Girl 
