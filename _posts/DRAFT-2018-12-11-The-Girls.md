@@ -48,7 +48,7 @@ Concept based off of Hatsune Miku (Vocaloid), Jinx (LoL)
 
 Growing up sheltered from most of world, {{Bubbles}} keeps to herself in her room. Her guardian rarely sees {{Bubbles}} leave her room other than for necessities, and wonders if the girl will ever leave the place to look for work or even a better, fuller life. But {{Bubbles}}' world is full of potential in the online space. Social networking, ecommerse and other online venues provide many opportunities. Especially the darknet, where {{Bubbles}} finds herself work as a competent hacker, which proves more than useful as the darknet is a dangerous place in an ever increasingly digital world. There, she learned to be vigiliant and rarely trusting anyone she encounters. However, having immersed herself in the net-connected space for so long the, the feeling for belonging  and companionship lingers. This reclusive life-styles sometimes does more harm than the safety is provides her, as her need to simply exist slips day by day.
 
-***
+*** 
 
 Blossom ({{Blossom}}) - alias: Best Girl 
 Associations - Sedusa (association stems from that fact that she takes up jobs to make extra money, and gained a network of trust)
