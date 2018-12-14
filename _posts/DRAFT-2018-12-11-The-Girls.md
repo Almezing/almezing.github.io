@@ -11,9 +11,19 @@
 # The Girls - B to V
 ### Buttercup ({{Buttercup}})  
 Alias: Green Machine
-Associations - Gangrene Gang (associate from interaction that later resulted in her receive the inject, allow for fast recovery from any attack)
+Associations: Gangrene Gang (associate from interaction that later resulted in her receive the inject, allow for fast recovery from any attack)
+Age: 27
+Occuptation: Underground Fighter
+Personality traits:
+Highest level of education: Highschool
+Physical traits:
+Biggest motivator: Fame
+Biggest fear: Mediocrity
+Likes:
+Dislikes:
 Powers: Strength, Speed, Regeneration
 Concept based off Akali (LoL), Faith (Mirrors Edge) , Tifa (FFVII) 
+
 
 > That last fight was bust. It did not end well for the both of us. It ended up a loss for me by shitty ruling, but he ended up in a coma anyways. Should have never accepted his offer, but whatever these people wanted a show, and best of all, they know my name.
 
@@ -23,6 +33,15 @@ Concept based off Akali (LoL), Faith (Mirrors Edge) , Tifa (FFVII)
 
 ### Bubbles ({{Bubbles}}) - alias: CyberVyrus Support Class
 Associations - HIM (association stems from a unique interface to properly integration HIM technology)
+Age: 27
+Occuptation: Freelance hacker
+Personality traits:
+Highest level of education: Some college
+Physical traits:
+Biggest motivator: Companionship
+Biggest fear: Betrayal
+Likes: 
+Dislikes:
 Powers: Technomancy, Augmentation 
 Concept based off of Hatsune Miku (Vocaloid), Jinx (LoL)
 
@@ -52,7 +71,16 @@ Growing up sheltered from most of world, {{Bubbles}} keeps to herself in her roo
 
 Blossom ({{Blossom}}) - alias: Best Girl 
 Associations - Sedusa (association stems from that fact that she takes up jobs to make extra money, and gained a network of trust)
-Powers: Psychic, Espionage
+Age: 27
+Occuptation: Underground Fighter
+Personality traits:
+Highest level of education: Highschool
+Physical traits:
+Biggest motivator: Family
+Biggest fear: Failure
+Likes:
+Dislikes:
+Powers: Psychic, Enhanced senses
 Concept based of off Aloy (Horizon Zero Dawn), Ygritte (GoT)
 
 > The alarm is going to hit 5:30 soon. I have to get up for the run. It takes me 28 minutes to finish 3 minutes to get back into my room, 15 to wash up and another 15 to get ready for the haul to get to work. I can do things better to get a better time, but that’ll be another day to test. This routine works well enough. This week is where the new patients are sent in. I kind of like seeing the new faces. Gives me something to look forward to. I already have this month covered, but with the new pay installment also coming in, I might have to do that job again to cover the cost. She deserve to see another day. The alarm is about to go off. 
