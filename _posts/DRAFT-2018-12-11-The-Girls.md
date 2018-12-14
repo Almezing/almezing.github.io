@@ -18,7 +18,7 @@ Personality traits:
 Highest level of education: Highschool
 Physical traits:
 Biggest motivator: Fame
-Biggest fear: Mediocrity
+Biggest fear: Control
 Likes:
 Dislikes:
 Powers: Strength, Speed, Regeneration
@@ -76,8 +76,8 @@ Occuptation: Underground Fighter
 Personality traits:
 Highest level of education: Highschool
 Physical traits:
-Biggest motivator: Family
-Biggest fear: Failure
+Biggest motivator: Purpose
+Biggest fear: Inadequacy
 Likes:
 Dislikes:
 Powers: Psychic, Enhanced senses
