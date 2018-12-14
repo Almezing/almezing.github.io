@@ -11,13 +11,13 @@
 
 # The Girls - B to V
 ### Buttercup ({{Buttercup}})  
-Alias: Green Machine
+Alias: Absinthe (favorite drink)
 Associations: Gangrene Gang (associate from interaction that later resulted in her receive the inject, allow for fast recovery from any attack)
 Age: {{Age}}
 Occuptation: Underground Fighter
 Personality traits:
 Highest level of education: Highschool
-Physical traits:
+Physical traits: Stubburn
 Biggest motivator: Fame
 Biggest fear: Control
 Likes:
@@ -33,10 +33,10 @@ Concept based off Akali (LoL), Faith (Mirrors Edge) , Tifa (FFVII)
 ***
 
 ### Bubbles ({{Bubbles}}) - alias: CyberVyrus Support Class
-Associations - HIM (association stems from a unique interface to properly integration HIM technology)
+Associations: H.I.M. (association stems from a unique interface to properly integration HIM technology)
 Age: {{Age}}
 Occuptation: Freelance hacker
-Personality traits:
+Personality traits: Cautious 
 Highest level of education: Some college
 Physical traits:
 Biggest motivator: Companionship
@@ -71,11 +71,11 @@ Growing up sheltered from most of world, {{Bubbles}} keeps to herself in her roo
 *** 
 
 Blossom ({{Blossom}}) - alias: Best Girl 
-Associations - Sedusa (association stems from that fact that she takes up jobs to make extra money, and gained a network of trust)
+Associations: Sedusa (association stems from that fact that she takes up jobs to make extra money, and gained a network of trust)
 Age: {{Age}}
-Occuptation: Underground Fighter
-Personality traits:
-Highest level of education: Highschool
+Occuptation: Nurse, Freelancer - other
+Personality traits: Headstrong
+Highest level of education: College
 Physical traits:
 Biggest motivator: Purpose
 Biggest fear: Inadequacy
