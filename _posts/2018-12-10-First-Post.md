@@ -1,6 +1,10 @@
 ---
 comments: true
+
+classes: wide
+
 ---
+
 {% assign Buttercup =  "Vanetta" %}
 
 {% assign Bubbles =  "Vyomi" %}
