@@ -11,13 +11,6 @@ classes: wide
 
 {% assign Blossom =  "Valora" %}
 
-![The Girls] (/assets/Puff.jpg)
-
-![TheGirls] (https://raw.githubusercontent.com/Almezing/almezing.github.io/master/assets/Puff.jpg)
-
-![text][TheGirls]
-
-{% include figure image_path="/assets/Puff.jpg" alt="The Girls" %}
 
 # THEMES
 Morally gray, relatable, empathy, sympathy, corruption, sacrifice, forbidden, technology, decay, cyberpunk, conflicts, weapons, military, twists, jobs, heists, mercenaries, 

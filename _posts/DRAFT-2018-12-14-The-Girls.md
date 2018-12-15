@@ -15,6 +15,8 @@ The plan: Outline seperate stories as introductions to the characters. Each tell
 
 ***
 
+{% include figure image_path="/assets/Puff.jpg" alt="The Girls" %}
+
 # The Girls - B to V
 ### Buttercup ({{Buttercup}})  
 Alias: Green Machine
