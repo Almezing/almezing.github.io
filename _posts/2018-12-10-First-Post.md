@@ -1,3 +1,6 @@
+---
+comments: true
+---
 {% assign Buttercup =  "Vanetta" %}
 
 {% assign Bubbles =  "Vyomi" %}
