@@ -5,7 +5,7 @@
 
 {% assign Blossom =  "Valora" %}
 
-The plan: Outline seperate stories as introductions to the characters. Each tells what the girls are doing/facing and how they over come or persevere
+The plan: Outline seperate stories as introductions to the characters. Each tells what the girls are doing/facing and how they over come or persevere. Obviously this is WIP.
 
 ***
 
