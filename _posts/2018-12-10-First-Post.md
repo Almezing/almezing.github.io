@@ -17,7 +17,7 @@ classes: wide
 
 ![text][TheGirls]
 
-{% include thegirls image_path="/assets/Puff.jpg" alt="The Girls" %}
+{% include figure image_path="/assets/Puff.jpg" alt="The Girls" %}
 
 # THEMES
 Morally gray, relatable, empathy, sympathy, corruption, sacrifice, forbidden, technology, decay, cyberpunk, conflicts, weapons, military, twists, jobs, heists, mercenaries, 
