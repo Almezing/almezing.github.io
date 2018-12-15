@@ -28,16 +28,16 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "https://almezing.disqus.com/"
+    shortname            : #"https://almezing.disqus.com/"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
-    num_posts            : # 5 # 5 (default)
-    colorscheme          : # "light" # "light" (default), "dark"
+    num_posts            :  5 # 5 (default)
+    colorscheme          :  "dark" # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
 staticman:
