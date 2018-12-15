@@ -47,4 +47,4 @@ One of the largest securities companies after a merger between AMPM Secured and 
 
 ### The Brassica Foundation (The Broccoloid Aliens):
 
-Mysterious group. Philanthropic and care for the needy by providing with food and some resources. 
+Mysterious group. Philanthropic and care for the needy by providing food and some resources. 
