@@ -11,9 +11,9 @@ classes: wide
 
 {% assign Blossom =  "Valora" %}
 
-![The Girls] (/_assets/Puff.jpg)
+![The Girls] (/assets/Puff.jpg)
 
-![TheGirls] https://raw.githubusercontent.com/Almezing/almezing.github.io/master/assets/Puff.jpg
+![TheGirls] (https://raw.githubusercontent.com/Almezing/almezing.github.io/master/assets/Puff.jpg)
 
 ![text][TheGirls]
 
