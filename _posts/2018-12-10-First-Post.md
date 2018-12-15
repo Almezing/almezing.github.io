@@ -18,6 +18,9 @@ The girls are experiments. Each created to test a specific hypothesis the Profes
 ### Professor Utonium (Plutonium is element 94. Indium is element 49. Professor Vindium): 
 A scientist whose success in various research topics led to him becoming the CEO of his conglomerate, Utonium Industries Group (Vindium Industries Group, which operates in healthcare, pharmaceuticals, food production and services, technical and urban infrastructure, and education. Being in a powerful position, he manages his empire with a conclave of confidants, but is very involved in some minor management at rungs of the the conglomerate later. Some say he has somewhat a controlling charisma.
 
+### Mayor of TSV Megalopis:
+A corrupt politician who turns a blind eye to any corporate doings that he profits from.
+
 ### Mojo Jojo (shorten to Jojo, may need to change):
 Another of Professor Secret experiments that demonstrated how increasing higher intelligence in non-human primates can be achieved. Due to his fear that he may underestimate Mojo Jojo’s, the professor closely monitors him, doing it with a caring fatherly facade. Replaces the Professor with a copy to continue running the company. Extremely limited amount of personnel have seen him, but the rumors say he is very sophisticated. He continues the Professor’s experiments and even conducts his own.
 
