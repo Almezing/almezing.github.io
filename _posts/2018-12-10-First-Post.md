@@ -2,7 +2,6 @@
 comments: true
 
 
-
 ---
 
 {% assign Buttercup =  "Vanetta" %}
