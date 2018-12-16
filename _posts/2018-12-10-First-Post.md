@@ -1,7 +1,7 @@
 ---
 comments: true
 
-classes: wide
+
 
 ---
 
@@ -24,7 +24,7 @@ The girls are experiments. Each created to test a specific hypothesis the Profes
 A scientist whose success in various research topics led to him becoming the CEO of his conglomerate, Utonium Industries Group (Vindium Industries Group, which operates in healthcare, pharmaceuticals, food production and services, technical and urban infrastructure, and education. Being in a powerful position, he manages his empire with a conclave of confidants, but is very involved in some minor management at rungs of the the conglomerate later. Some say he has somewhat a controlling charisma.
 
 ### Mayor of TSV Megalopis:
-A corrupt politician who turns a blind eye to any corporate doings that he profits from.
+A charismatic speaker that advocates the use of technology to expand city infracture, public ultility. and safety. Rapid growth of these expansions over the years had lead to a population boom to what is now knowm as TSV Megalopolis. This boom of new workers helped pay subsidized corporate ventures and inititives. But the corrupt politician often turns a blind eye to any corporate doings that he profits from. 
 
 ### Mojo Jojo (shorten to Jojo, may need to change):
 Another of Professor Secret experiments that demonstrated how increasing higher intelligence in non-human primates can be achieved. Due to his fear that he may underestimate Mojo Jojo’s, the professor closely monitors him, doing it with a caring fatherly facade. Replaces the Professor with a copy to continue running the company. Extremely limited amount of personnel have seen him, but the rumors say he is very sophisticated. He continues the Professor’s experiments and even conducts his own.
@@ -54,4 +54,4 @@ One of the largest securities companies after a merger between AMPM Secured and 
 
 ### The Brassica Foundation (The Broccoloid Aliens):
 
-Mysterious group. Philanthropic and care for the needy by providing food and some resources. 
+A philanthropic company that sells healthy but low-cost food alternatives and other products. Any unsold products are shipped to Brassica, who distrubutes and provides them to the poor. People believe this is just for appeareancea as the company is fairly new in the industry it operates in. The poor and needy praise them for their efforts helping them. Some are even given a second chance at life to work for the foundation and advertize to others to try Brassica products. Brassica always has a supply of the products despite the trend of industry shortages.
