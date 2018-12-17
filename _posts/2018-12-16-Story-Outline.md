@@ -13,7 +13,8 @@ The girls are experiments. Designer babies created to test a specific hypothesis
 
 {{Blossoms}} had what most would consider an enviable childhood. She grew up in the better section of the city, went to the well funded schools, and works the respectable jobs. As normal her live sounds, it is far from her reality. {{Blossom}} take on these jobs for the sole purpose of her guardian's medical bills, or so she thinks. Slaving away the rest of her life to do right by the person who ensured her her childhood, {{Blossom}} doesn’t think twice of what must be done. She understands her honor can be betrayed, but her moral choices are not easily swayed. Which is more than what can be said for {{Bubbles}}.
 
-### <strike> {{Bubbles}} V1
+<strike> 
+### {{Bubbles}} V1
 
 {{Bubbles}}, growing up, developed a few mental. disorders but not what the professor designed. It was the implication of his experiment, as {{Bubbles}} was found by her guardian without limbs. By only removing her limbs and grafting bio-mechanic receptors, the professor gave way to replacement limbs. Once in while the professor anonymously ships limbs, to coincide the {{Bubbles}} growth rate. But {{Bubbles}} could not see herself as a normal child growing up. She grew distant, antisocial, and ultimately emotionally depressed. She finds console in her guardian, which is a joy in rare moments. In those absent times, Bubbles immerses herself in the net world where is her ventures brought her employment as a hacker for hire. But depression still lingers. </strike>
 
