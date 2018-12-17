@@ -15,7 +15,7 @@ The girls are experiments. Designer babies created to test a specific hypothesis
 
 ### <strike> {{Bubbles}} V1
 
-<strike> {{Bubbles}}, growing up, developed a few mental. disorders but not what the professor designed. It was the implication of his experiment, as {{Bubbles}} was found by her guardian without limbs. By only removing her limbs and grafting bio-mechanic receptors, the professor gave way to replacement limbs. Once in while the professor anonymously ships limbs, to coincide the {{Bubbles}} growth rate. But {{Bubbles}} could not see herself as a normal child growing up. She grew distant, antisocial, and ultimately emotionally depressed. She finds console in her guardian, which is a joy in rare moments. In those absent times, Bubbles immerses herself in the net world where is her ventures brought her employment as a hacker for hire. But depression still lingers. 
+{{Bubbles}}, growing up, developed a few mental. disorders but not what the professor designed. It was the implication of his experiment, as {{Bubbles}} was found by her guardian without limbs. By only removing her limbs and grafting bio-mechanic receptors, the professor gave way to replacement limbs. Once in while the professor anonymously ships limbs, to coincide the {{Bubbles}} growth rate. But {{Bubbles}} could not see herself as a normal child growing up. She grew distant, antisocial, and ultimately emotionally depressed. She finds console in her guardian, which is a joy in rare moments. In those absent times, Bubbles immerses herself in the net world where is her ventures brought her employment as a hacker for hire. But depression still lingers. </strike>
 
 ### {{Bubbles}} V2
 
