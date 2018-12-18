@@ -13,11 +13,11 @@
 {{Buttercup}} needed extra cash to prepare for her next match that will happen overseas. The plane tickets themselves will run her more than what she saved from previous matches. But this match is the be all and end all of her her underground career that’ll shoot her towards rockstar status or send her spiraling down like a turd in a toilet. She’ll be in  the vanguard team of the operation. The goal? Break into a HIM weapons warehouse to steal developmental schematics and experiment weapons. The hit goes wrong, {{Buttercup}} ends up in the hospital where Blossom works. {{Bubbles}} keeps track on {{Buttercup}} for she feeds responsible for what happened. Hacker is unknown till later.
 
 > {{Buttercup}}: Minimal security, easy break-in points made this hit a done deal according to the contact’s informant. The intel came from a hacker who is joining us to get us by and covering our tracks. I hate relying on some dork behind desk, staring at a screen. I hope his eyes burn from too much exposure after this. Whatever, I’m going to make this a quick job, and get back to training. I’m just at the edge of a new level in the slugging business, but I just need a little bit more money. I’ve gotta make sure this job gets done without a hitch. 
-
+>
 >{{Buttercup}}: Hey hackerman
-
+>
 >{{Bubbles}}: My gender does  not matter”
-
+>
 >{{Buttercup}}: Well you matter now. What’s your guess on this job
 
 >{{Bubbles}}: We have a high likelihood of making out unscathed
