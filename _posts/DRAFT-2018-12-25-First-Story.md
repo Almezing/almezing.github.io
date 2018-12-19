@@ -42,9 +42,66 @@
 
 >{{Bubbles}}: I promise
 
-Vanguard arrived at the point of entry. This side point was found to be the quickest but safest way into where the assets were being held. An entry midway between office area and basement where the other asset is housed and escape route is mapped to the rendezvous point. The facility looked heavily guarded from the outside, but the intel suggest this was only a front and the interior will nearly be empty of patrols. The first assets resides on a computer desk somewhere in the office space. It was sent and stored there about a week ago. It may have been deleted after sitting for so long, but traces of it can be recovered. 
+Vanguard arrived at the point of entry. This side entry was found to be the quickest but safest way into where the assets were being held. An entry midway between office area and basement where the other asset is housed and escape route is mapped to the rendezvous point. The facility looked heavily guarded from the outside, but the intel suggest this was only a front and the interior will nearly be empty of patrols. The first assets resides on a computer desk somewhere in the office space. It was sent and stored there about a week ago. It may have been deleted after sitting for so long, but traces of it can be recovered. 
+Vanguard  was dropped off at the point of entry. This side entry was found to be the quickest but safest way into where the assets were being held. An entry midway between office area and basement where the other asset is housed and escape route is mapped to the rendezvous point. The facility looked heavily guarded from the outside, but the intel suggest this was only a front and the interior will nearly be empty of patrols. The first assets resides on a computer disc somewhere in the office space. It was sent and stored there about a month ago. It may have been deleted after sitting for so long, but traces of it can be recovered.
 
-The crew consisted of a ragtag character all trying to make a quick buck. There’s the wanna be gangster, the hot headed bimbo, literally some kid, the usual big guy, and the butch chick.
+The crew consisted of a ragtag of characters who all are took on the job to make a quick buck. There’s the wanna be gangster trying to make a name for himself in the city. The hot headed bimbo he brought along might be his girlfriend, and she brought on some extra gear. The usual big guy brawny enough for the requirement to carry the heavy stuff. There's literally some kid the hacker dude wanted on board as a proxy for him to access any consoles that were network isolated. His secondary use is to scout and look out for the crew.  Lastly, there's the butch chick only here to realize a dream.
+
+Vanguard entered through the door way, into a hall that is adjacent to the office space they needed to get into. The kid scouted around the corner and located the office room where the schematic asset should be. No cameras in sight as this was a commercial building that only monitored crucial sections of the facility. The crew made their way six doors down the hallway, keeping their cover from the window opening that lead to the fountain court yard. The intel was solid. No AmIba patrols were seen in nor across the court yard into the window view of the other half of the office space. The first to enter into the office room was the kid. All he needed to do was setup the hackers' connection to the desk to start the extraction. The rest of the crew sat on standby.
+
+>Gangster: "I hate this part"
+
+>Brawny: "Everyone hates this part"
+
+>Hacker: "I prefer this part"
+
+>Gangster Girl: "Of course you do"
+
+>Hacker: "This will take some time as the schematic was deleted from this desk. I need to do a data mine"
+
+>Gangster: "You gotta be fucking with me"
+
+>{{Buttercup}}: "Be nice everyone one. We need to do all of this to get the pay we're after"
+
+>Brawny: "Of course this would happen"
+
+>Kid: "Just make this quick. I really want to get out of here"
+
+>Gangster: "I'm gonna lay low after all this"
+
+>Gangster Girl: "We're going to party after this. You guys are invited"
+
+>Gangster: "No, none of you are invited. Just crawl back into the holes you all came from"
+
+>{{Buttercup}}: "I don't mind a drink or four"
+
+>Kid: "I might finally have enough to get those optic upgrades I've been eyeing. Should cover the operation too!"
+
+>Brawny: "You'll be better off finishing school, Kid"
+
+>Kid: "School? I got expelled to the only one I was qualified for.  At least with this, I'll be make a living."
+
+>{{Buttercup}}: "But not a decent one"
+
+>Gangster Girl: "I've been where he was. It's better than nothing."
+
+>Hacker: "I'm almost done"
+
+>Gangster: "How long does it take to just find a fucking file? Hurry the fuck up"
+
+>{{Buttercup}}: "Chill the fuck out. It's almost done"
+
+>Brawny: "Being that this is H.I.M. tech we're getting, I'm no surprised the effort it takes to get all this done"
+
+>Hacker: "I've got it all. Move onto the next target"
+
+Hacker gathered enough data to recreate the schematics for an experimental H.I.M. weapon. Kid held the storage chip housing the blueprint in front of the rest of the crew. It was swiftly snatched by Gangster who dropped into this coat pocket to suggest that every should quickly move on. The crew needed to work their way down to the lower levels. The outline of the plan mapped a stair way at the end of the hall. This led to the basement level where the other asset should be found. It was a large storage room filled with columns of shipments that were soon to be moved to their next destination. This night was the only available time frame to extract the asset out of here. Kid did his thing to find where it was located, which was behind a enclosed alcove within the storage area. {{Buttercup}} and Brawny made their way towards the mechanized doors. They couldn't lay a finger as the doors themselves were popped open by Hacker.
+
+>Hacker: "I'm saving you the time"
+
+The rest of the vanguard took point in the storage room as {{Buttercup}} and Brawny made their way into the alcove. Nothing out of the ordinary in the room was obvious except a large crate towards the back. Brawny walked up to the crate.  The letters "H.I.M." was clearly etched across the top section of the crate, by the handle. He worked his hand to flip the handle out of its inlay cut out to a standing position to get a firm grip. As soon has he had lifted the crate a millimeter off its position, the mechanized doors loudly slammed right behind {{Buttercup}} with the facility alarm sounding off.
+
+The sudden exposure caused each member to tense up, but they knew what they got themselves into. Jobs like these hardly end smoothly and happily. Hacker was able to unlock the doors, but the slam made it impossible to activate the motors to pull the halves apart. The doors had been sabotaged as they've violated standard building policies. The two inside had to pull them apart themselves. The ordeal gave enough time for AmIba guards to come rustling and shouting from the exit way leading to the rendezvous point. AmIba gathered faster than what the crew was prepared. The first sight of them was brought bullets hailing towards their position. Vanguard had to make their way to the opposite end of the storage room leading to the stair way. 
 
 [Outline V2: Vanguard makes it to the first asset without issue. The kid-lookout sets up {{Bubbles}}'s connection to the computer to do a data mine. The rest of the crew sits and waits, even have a conversation of who they are and what they are doing the job for. {{Bubbles}} finds enough data to recreate the schematic asset for an experimental H.I.M weapon. Then Vanguard makes their way down to the basement area to retrieve the other asset. The asset was found to be a create, behind a enclosed alcove within the storage area. {{Buttercup}} and the brawny member entered through the mechanized door after {{Bubbles}} pryed it open. The others stayed behind to prepare for the rendezvous. Right when the brawy member touched the crate, the room's door slams and locks behind them with the facilty alarms sounded off. The sudden exposure made everyone tensed up, but they knew what they were got themselves into. Jobs hardly end happily ever after. Although {{Bubbles}} mananged to unlock the door, the slam had made it impossible for the motors to budge the halfs apart. The door had to have been sabotage as the door violated standard emegency policies. {{Buttercup}} and the brawy member had to pull them apart themselves. This set back gave enough time for guards to come rustling and shouting from the exit way to the rendezvou point. After pulling through the asset's room, the crewed need to backtrack, but were met with a lock security door]
 
