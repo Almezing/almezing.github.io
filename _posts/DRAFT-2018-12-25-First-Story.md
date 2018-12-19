@@ -110,7 +110,7 @@ The sudden exposure caused each member to tense up, but they knew what they got 
 
 The job soon took a disasterous turn. Bullets are flying down the corridor. Some are ricocheting off the security door at the back. AmIba guards must have brought in they’re H.I.M. issued tech just for this hit. All it took was one stray ricocheting into the eye socket of the poor bastard carrying the schematic documents. The crew member slumped back against the wall, loosening his grip on his weapon to use the rest of his final moments to maneuver the memory card out from his coat pocket but his arm went limp, as did his entire body. The chip was snatch by the kid-lookout hiding behind the thin corner that narrows the hallway, where the rest of the vanguard team were locked down.
 
->Buttercup: You fucked us! You fucking fucked us!
+>{{Buttercup}}: You fucked us! You fucking fucked us!
 
 >{{Bubbles}}: I can't be blamed for this
 
