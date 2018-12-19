@@ -20,7 +20,7 @@
 
 >{{Buttercup}}: Hey hackerman
 
->Hackerman: My gender does not matter”
+>Hackerman: My gender does not matter
 
 >{{Buttercup}}: Well you matter now. What’s your guess on this job
 
@@ -32,13 +32,13 @@
 
 >{{Buttercup}}: Who said anything about a grudge. I’m the one literally putting my neck on the line while you get to literally sit, point and click
 
->Hacker: AmIba security has upped it’s cybersuite packages as of late, and I have not found any workarounds just yet
+>Hacker: AmIba security has upped it’s cybersuite packages as of late, but I have a few workarounds
 
->{{Buttercup}}: All the more reason for me to make sure I don’t fuck up, and do keep our asses hidden
+>{{Buttercup}}: So I guess all we have to do is to not fuck up. You better do keep our asses hidden
 
->Hacker: I can assure you, you don’t need to worry. I’ll keep you all safe. Especially you if you like.
+>Hacker: I can assure you, you don’t need to worry. I’ll keep you all safe.
 
->{{Buttercup}}: Sigh. Sure I’ll take your special good luck charm for what it’s worth.
+>{{Buttercup}}: Sigh. Sure I’ll take your word for what it’s worth.
 
 >Hacker: I brought you good intel
 
@@ -46,60 +46,62 @@
 
 >Hacker: I promise
 
->{{Buttercup}}: If you can keep me alive, I'll appreciate that
-Vanguard was dropped off at the point of entry. This side entry was found to be the quickest but safest way into where the assets were being held. An entry midway between office area and basement where the other asset is housed and escape route is mapped to the rendezvous point. The facility looked heavily guarded from the outside, but the intel suggest this was only a front and the interior will nearly be empty of patrols. The first assets resides on a computer disc somewhere in the office space. It was sent and stored there about a month ago. It may have been deleted after sitting for so long, but traces of it can be recovered.
+>{{Buttercup}}: If you can keep at least me alive, I'll appreciate that
+Vanguard was dropped off at the point of entry. This side entry was found to be the quickest but safest way into where the assets were being held. An entry midway between office area and basement where the other asset is housed and escape route is mapped to the rendezvous point. The facility looked heavily guarded from the outside, but the intel suggest this was only a front and the interior will nearly be empty of patrols. The first assets resides on a computer disc somewhere in the office space that was sent and stored there about a month ago. 
 
-The crew consisted of a ragtag of characters who all are took on the job to make a quick buck. There’s the wanna be gangster trying to make a name for himself in the city. The hot headed bimbo he brought along might be his girlfriend, and she brought on some extra gear. The usual big guy brawny enough for the requirement to carry the heavy stuff. There's literally some kid the hacker wanted on board as a proxy to access any system that were network isolated. His secondary use is to scout and look out for the crew.  Lastly, there's the butch chick only here to realize a dream.
+The crew consisted of a ragtag of characters who all are took on the job to make a quick buck. There’s the wanna be gangster trying to make a name for himself in the city. The hot headed bimbo he brought along might be his girlfriend, and she brought on her own silenced gun. The usual big guy was brawny enough for the requirement to carry the heavy stuff. There's literally some kid the hacker wanted on board as a proxy to access any system that were network isolated. His secondary use is to scout and look out for the crew. Lastly, there's the butch chick only here to realize a dream.
 
-Vanguard entered through the door way, into a hall that is adjacent to the office space they needed to get into. The kid scouted around the corner and located the office room where the schematic asset should be. No cameras in sight as this was a commercial building that only monitored crucial sections of the facility, which the hacker already took care of. The crew made their way six doors down the hallway, keeping their cover from the window opening that lead to the fountain court yard. The intel was solid. No AmIba patrols were seen in nor across the court yard into the window view of the other half of the office space. The first to enter into the office room was the kid. All he needed to do was setup the hackers' connection to the desk to start the extraction. The rest of the crew sat on standby.
+Vanguard entered through the door way, into a hall that is adjacent to the office space they needed to get into. The kid scouted around the corner and located the office room where the schematic asset should be. No cameras in sight as this was a commercial building that only monitored crucial sections of the facility, which the hacker already took care of. The crew made their way six doors down the hallway, keeping their cover from the window opening that lead to the fountain court yard. The intel was solid. No AmIba patrols were seen in nor across the court yard into the window view of the other half of the office space. The first to enter into the office room was the kid as all he needed to do was setup Hacker's data miner. The rest of the crew sat on standby.
 
->Gangster: "I hate this part"
+>Gangster: I hate this part
 
->Brawny: "Everyone hates this part"
+>Brawny: Everyone hates this part
 
->Hacker: "I prefer this part"
+>Hacker: I prefer this part
 
->Gangster Girl: "Of course you do"
+>Gangster Girl: Of course you do
 
->Hacker: "This will take some time as the schematic was deleted from this desk. I need to do a data mine"
+>Hacker: This will take some time as the schematic was deleted from this desk. This will take longer with the data mine
 
->Gangster: "You gotta be fucking with me"
+>Gangster: You gotta be fucking with me
 
->{{Buttercup}}: "Be nice everyone one. We need to do all of this to get the pay we're after"
+>{{Buttercup}}: Be nice everyone one. We need to do all of this to get the pay we're after
 
->Brawny: "Of course this would happen"
+>Brawny: Of course this would happen"
 
->Kid: "Just make this quick. I really want to get out of here"
+>Kid: Just make this quick. I really want to get out of here
 
->Gangster: "I'm gonna lay low after all this"
+>Gangster: I'm gonna lay low after all this
 
->Gangster Girl: "We're going to party after this. You guys are invited"
+>Gangster Girl: We're going to party after this. You guys are invited
 
->Gangster: "No, none of you are invited. Just crawl back into the holes you all came from"
+>Gangster: No, none of you are invited. Just crawl back into the holes you all came from
 
->{{Buttercup}}: "I don't mind a drink or four"
+>{{Buttercup}}: I don't mind a drink or four
 
->Kid: "I might finally have enough to get those optic upgrades I've been eyeing. Should cover the operation too!"
+>Kid: I might finally have enough to get those optic upgrades I've been eyeing. Should cover the operation too!
 
->Brawny: "You'll be better off finishing school, Kid"
+>Brawny: You'll be better off finishing school, Kid
 
->Kid: "School? I got expelled to the only one I was qualified for.  At least with this, I'll be make a living."
+>Kid: School? I got expelled to the only one I was qualified for.  At least with this, I'll be make a living.
 
->{{Buttercup}}: "But not a decent one"
+>{{Buttercup}}: But not a decent one
 
->Gangster Girl: "I've been where he was. It's better than nothing."
+>Gangster Girl: I've been where he was. It's better than nothing.
 
->Hacker: "I'm almost done"
+>Hacker: I'm almost done
 
->Gangster: "How long does it take to just find a fucking file? Hurry the fuck up"
+>Gangster: How long does it take to just find a fucking file? Hurry the fuck up
 
->{{Buttercup}}: "Ice the fuck out. It's almost done"
+>{{Buttercup}}: Ice the fuck out. It's almost done
 
->Brawny: "Being that this is H.I.M. tech we're getting, I'm no surprised the effort it takes to get all this done"
+>Brawny: Being that this is H.I.M. tech we're getting, I'm no surprised the effort it takes to get all this done
 
->Hacker: "I've got it all. Move onto the next target"
+>Kid: I've got it all. 
 
-Hacker gathered enough data to recreate the schematics for an experimental H.I.M. weapon. Kid held the storage chip housing the blueprint in front of the rest of the crew. It was swiftly snatched by Gangster who dropped into this coat pocket to suggest that the crew should move on already. The crew needed to work their way down to the lower levels. The outline of the plan mapped a stair way at the end of the hall. This led to the basement level where the other asset should be found. It was a large storage room filled with columns of shipments that were soon to be moved to their next destination. This night was the only available time frame to extract the asset out of here. Kid did his thing to find where it was located, which was behind a enclosed alcove within the storage area. {{Buttercup}} and Brawny made their way towards the mechanized doors. They couldn't lay a finger as the doors themselves were popped open by Hacker.
+>Hacker: Move onto the next target
+
+The data miner made a faint beep that confirmed it gathered enough data to recreate the schematics for an experimental H.I.M. weapon. Feeling accomplished, Kid held the storage chip in front of the rest of the crew. It was swiftly snatched by Gangster, who dropped into this coat pocket to suggest that the crew should move on already. Vanguard needed to work their way down to the lower levels. The outline of the plan mapped a stair way at the end of the hall. This led to the basement level where the other asset should be found. It was a large storage room filled with columns of shipments that were soon to be moved to their next destination. This night was the only available time frame to extract this particular asset out of here. Kid did his thing to find where it was located, which was behind a enclosed alcove within the storage area. {{Buttercup}} and Brawny made their way towards the mechanized doors. They couldn't lay a finger as the doors themselves were popped open by Hacker.
 
 >Hacker: "I'm saving you the time"
 
@@ -133,7 +135,7 @@ The job soon took a disastrous turn as bullets flew down the corridor, where som
 
 >Hacker: Because I promised.
 
-The full-metal security doors sprung open into the short corridor leading back to storage. It is certainly not the best escape route, as demonstrated by Brawny while carrying the weapon crate. He made a bad gamble after noticing the AmIba guards was on break for a reload, but he followed up too late. He took a shot in the arm holding the crate. It fell silently on its side in the orchestra of gunfire. He was already sluggish being the largest of the bunch, but lucky enough he managed to get to a safe spot in storage, behind the shelves of containers. Gangster Girl was shot down in her attempt to getting pass the security doors. She would have had a chance if she took 3 shots less to her shoulder blades and spine. Her lifeless body skid and rolled past the doors but barely inches besides the weapon crate.
+The full-metal security doors sprung open into the short corridor leading back to storage. It is certainly not the best escape route, as demonstrated by Brawny while carrying the weapon crate. He made a bad gamble after noticing the AmIba guards was on break for a reload, but he followed up too late. He took a shot in the arm holding the crate. It fell silently on its side in the orchestra of gunfire. He was already sluggish being the largest of the bunch, but lucky enough he managed to get to a safe spot in storage, behind the shelves of containers. Gangster Girl was shot down in her attempt to getting pass the security doors. She would have had a chance if she took 3 shots less to her shoulder blades and spine. Her lifeless body skid and rolled barely ahead of the doors, and her gun slid passed the weapon crate.
 
 >Brawny member: They fucking got me! I drop the box!
 
@@ -143,7 +145,7 @@ The full-metal security doors sprung open into the short corridor leading back t
 
 >{{Buttercup}}: Block them off!
 
-The reverberating slam echoed across the corridor and storage room with the neon exit above brightening up before shorting out. Muffled footsteps and clanking from the other side suggest the AmIba guards were attempting to force their through the doors. With this break of action, vanguard gathered around to assets their situation. Two members are wiped out and one and a half are leaking. Brawny's arm didn't get shredded by the AmIba's weapons, even though the shot could have been from a H.I.M. weapon. A quick patch up won't hold up for long, but it'll do for the rest of the night. The kid already bandaged his mouth, so we won't getting any of his lip. {{Buttercup}} drags the weapons crate towards the other two, but before she was let a word, Hacker cut into their comms.
+The reverberating slam echoed across the corridor and storage room with the neon exit above brightening up before shorting out. Muffled footsteps and clanking from the other side suggest the AmIba guards were attempting to force their through the doors. With this break of action, vanguard gathered around to assets their situation. Two members are wiped out and one and a half are leaking. Brawny's arm didn't get shredded by the AmIba's weapons, even though the shot could have been from a H.I.M. weapon. A quick patch up won't hold up for long, but it'll do for the rest of the night. The kid already bandaged his mouth, so we won't getting any of his lip. {{Buttercup}} dragged the weapons crate along with the extra gun, towards the other two, but before she was let a word, Hacker cut into their comms.
 
 > Hacker: I have a new exit point. You'll have to backtrack a little to get to it, which mea-
 
@@ -153,8 +155,23 @@ The reverberating slam echoed across the corridor and storage room with the neon
 
 > Brawny: I'll do anything to get out of here. Even if it means I get shot again
 
-> Hacker: This is the faster way to get out. The longer you are in there, the harder it'll be to leave
+> Hacker: This is the faster way to get out. The longer you are in there, the harder it'll be to leave. I'll let the driver know
 
 > {{Buttercup}}. Shit, we'll deal with that. Big guy, hope you're arm still works because you'll still carrying this fucking box. And Kid, keep that chip deep in your pocket.
 
-Kid growled through his bandages in confirmation. Scrawny thing really can't do much but be a proxy for Hacker. Now he's half useless once the for the rest of this job.
+Kid groaned through his bandages in confirmation. Scrawny thing really can't do much but be a proxy for Hacker. Now he's half useless for the rest of this job. The clarity of clanking and barking of orders from the exit pushed Vanguard to make their way through the stairwell, back into the hall way. A couple of AmIba were blocking the way towards the other half of the office space where the crew needed to be for their pickup. It was a matter of time AmIba took some causalities of their own as {{Buttercup}} took point to use the silencer to clear them out. This proved to a bad call once the crew were half towards the the exit, AmIba guards linked to the dead bodies, were already pouring through the stairwell and hallway, behind the crew. 
+
+The getaway driver arrived right outside the exit vanguard were just pulling out of, into the rain. {{Buttercup}} gave covering fire for the other two. Kid didn't screw up getting outside and made his way to open up the trucks doors. Luck wasn't so charitable to Brawny when AmIba managed to not miss most of him. AmIba couldn't to not execute right there and there for they need to have someone to interrogate. Knowing his odds, Brawny thought it would be better to chuck the crate out in front of {{Buttercup}}.  She rushed to drag the crate into the trunk with one arm and fired back into the exit opening with the other. 
+
+>{{Buttercup}}: Pull off already!
+
+The truck sped off into the city, but not without company. Driver only momentarily lost the AmIba interceptor before arriving at the rendezvous. 
+
+>Hacker: You need to lose them
+>Driver: Shut the fuck up. Was that not obvious to us?!
+>{{Buttercup}}: Hacker still got our asses out of there
+>Kid: It was still a shit show back there. We're the ones that got lucky
+>Driver: You think you got anymore luck to spare for the rest of this trip, Kid!?
+>Kid: We're just a moving target with this bum Driver at the wheel.
+>{{Buttercup}}: I'll pick at them with what I have left. You do your magic, Hacker. Remember, you promised?
+>Hacker: . . . OK.
