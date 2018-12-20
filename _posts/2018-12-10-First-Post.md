@@ -57,6 +57,6 @@ A philanthropic company that sells healthy but low-cost food alternatives and ot
 
 Others may be added later. 
 * Candidates include:
-+ Robbing Leech.
-+ The Smiths.
-Princess
+        + Robbing Leech.
+        + The Smiths.
+        + Princess Morbucks
