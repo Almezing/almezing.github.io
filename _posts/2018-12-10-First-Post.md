@@ -56,7 +56,7 @@ One of the largest securities companies after a merger between AMPM Secured and 
 A philanthropic company that sells healthy but low-cost food alternatives and other products. Any unsold products are shipped to Brassica, who distrubutes and provides them to the poor. People believe this is just for appeareancea as the company is fairly new in the industry it operates in. The poor and needy praise them for their efforts helping them. Some are even given a second chance at life to work for the foundation and advertize to others to try Brassica products. Brassica always has a supply of the products despite the trend of industry shortages.
 
 Others may be added later. 
-* Candidates include:
-        + Robbing Leech.
-        + The Smiths.
-        + Princess Morbucks
+Candidates include:
++ Robbing Leech.
++ The Smiths.
++ Princess Morbucks
