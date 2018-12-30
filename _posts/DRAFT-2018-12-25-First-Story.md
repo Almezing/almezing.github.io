@@ -325,6 +325,3 @@ The door opened up to a plain bed room, furnished with the bare necessities. Bed
 >{{Buttercup}}: We can use another liability, sure.
 
 >{{Blossom}}: I can help you and I can handle myself. Just like you, I'm doing this for my own reasons.
-
-
-
