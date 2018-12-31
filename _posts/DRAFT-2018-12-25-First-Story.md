@@ -1,6 +1,6 @@
 {% assign Buttercup = "Vanetta" %}
 
-{% assign Bubbles = "Vyomi" %}
+{% assign Bubbles = "Vyomi" %} autophobia
 
 {% assign Blossom = "Valora" %}
 
@@ -24,7 +24,7 @@
 
 >{{Buttercup}}: Hey hackerman.
 
->Hackerman: My gender does  not matter.
+>Hackerman: My gender does not matter.
 
 >{{Buttercup}}: Well you matter now. What’s your guess on this job.
 
@@ -40,7 +40,7 @@
 
 >{{Buttercup}}: So I guess all we have to do is to not fuck up. You better keep our asses hidden.
 
->Hacker: I can assure you, you don’t need to worry. I’ll keep you all safe..
+>Hacker: I can assure you, you don’t need to worry. I’ll keep you all safe..
 
 >{{Buttercup}}: Sigh. Sure I’ll take your word for what it’s worth..
 
@@ -52,9 +52,9 @@
 
 >{{Buttercup}}: If you can keep at least me alive, I'll appreciate that.
 
-Vanguard was dropped off at the point of entry. An entry midway between the office area and the basement where the other asset is housed and escape route is mapped to the rendezvous point. The facility looked heavily guarded from the outside, but the intel suggest this was only a front and the interior will nearly be empty of patrols. The first assets resides on a computer disc somewhere in the office space that was sent and stored there about a month ago.
+Vanguard was dropped off at the point of entry. An entry midway between the office area and the basement where the other asset is housed and escape route is mapped to the rendezvous point. The facility looked heavily guarded from the outside, but the intel suggest this was only a front and the interior will nearly be empty of patrols. The first assets resides on a computer disc somewhere in the office space that was sent and stored there about a month ago. 
 
-The crew consisted of a ragtag of characters who all are took on the job to make a quick buck. There’s the wanna be gangster trying to make a name for himself in the city. The hot headed bimbo he brought along might be his girlfriend, and she brought on her own silenced gun. The usual big guy was brawny enough for the requirement to carry the heavy stuff. There's literally some kid the hacker wanted on board as a proxy to access any system that were network isolated. His secondary use was to scout and look out for the crew. Lastly, there's the butch chick only here to realize a dream.
+The crew consisted of a ragtag of characters who all are took on the job to make a quick buck. There’s the wanna be gangster trying to make a name for himself in the city. The hot headed bimbo he brought along might be his girlfriend, and she brought extra gear. The usual big guy was brawny enough for the requirement to carry the heavy stuff. There's literally some kid the hacker wanted on board as a proxy to access any system that were network isolated. His secondary use was to scout and look out for the crew. Lastly, there's the butch chick only here to realize a dream.
 
 Vanguard entered through the door way, into a hall that is adjacent to the office space they needed to get into. The kid scouted around the corner and located the office room where the schematic asset should be. No cameras in sight as this was a commercial building that only monitored crucial sections of the facility, which the hacker already took care of. The crew made their way six doors down the hallway, keeping their cover from the window opening that lead to the fountain court yard. The intel was solid. No AmIba patrols were seen in nor across the court yard into the window view of the other half of the office space. The first to enter into the office room was the kid as all he needed to do was setup Hacker's data miner. The rest of the crew sat on standby.
 
@@ -88,7 +88,7 @@ Vanguard entered through the door way, into a hall that is adjacent to the offic
 
 >Brawny: You'll be better off finishing school, Kid.
 
->Kid: School? I got expelled to the only one I was qualified for.  At least with this, I'll be make a living.
+>Kid: School? I got expelled to the only one I was qualified for.  At least with this, I'll be make a living.
 
 >{{Buttercup}}: But not a decent one.
 
@@ -102,19 +102,19 @@ Vanguard entered through the door way, into a hall that is adjacent to the offic
 
 >Brawny: Being that this is H.I.M. tech we're getting, I'm not surprised the effort it takes to get all this done.
 
->Kid: I've got it all. 
+>Kid: I've got it all. 
 
->Hacker: Move onto the next target.
+>Hacker: Move onto the next target.
 
-The data miner made a faint beep that confirmed it gathered enough data to recreate the schematics for an experimental H.I.M. weapon. Feeling accomplished, Kid held the storage chip in front of the rest of the crew. It was swiftly snatched by Gangster, who dropped into this coat pocket to suggest that the crew should move on already. Vanguard needed to work their way down to the lower levels. The outline of the plan mapped a stair way at the end of the hall. This led to the basement level where the other asset should be found. It was a large storage room filled with columns of shipments that were soon to be moved to their next destination. This night was the only available time frame to extract this particular asset out of here. Kid did his thing to find where it was located, which was behind a enclosed alcove within the storage area. {{Buttercup}} and Brawny made their way towards the mechanized doors. They couldn't lay a finger as the doors themselves were popped open by Hacker.
+The data miner made a faint beep that confirmed it gathered enough data to recreate the schematics for an experimental H.I.M. weapon. Feeling accomplished, Kid held the storage chip in front of the rest of the crew. It was swiftly snatched by Gangster, who dropped into this coat pocket to suggest that the crew should move on already. Vanguard needed to work their way down to the lower levels. The outline of the plan mapped a stair way at the end of the hall. This led to the basement level where the other asset should be found. It was a large storage room filled with columns of shipments that were soon to be moved to their next destination. This night was the only available time frame to extract this particular asset out of here. Kid did his thing to find where it was located, which was behind a enclosed alcove within the storage area. {{Buttercup}} and Brawny made their way towards the mechanized doors. They couldn't lay a finger as the doors themselves were popped open by Hacker.
 
 >Hacker: I'm saving us the time.
 
-The rest of the vanguard took point in the storage room as {{Buttercup}} and Brawny made their way into the alcove. Nothing out of the ordinary in the room was obvious except a large crate towards the back. Brawny walked up to the crate.  The letters "H.I.M." was clearly etched across the top section of the crate, by the handle. He worked his hand to flip the handle out of its inlay cut out to a standing position to get a firm grip. As soon has he had lifted the crate a millimeter off its position, the mechanized doors loudly slammed right behind {{Buttercup}} with the facility's alarm sounding off.
+The rest of the vanguard took point in the storage room as {{Buttercup}} and Brawny made their way into the alcove. Nothing out of the ordinary in the room was obvious except a large crate towards the back. Brawny walked up to the crate.  The letters "H.I.M." was clearly etched across the top section of the crate, by the handle. He worked his hand to flip the handle out of its inlay cut out to a standing position to get a firm grip. As soon has he had lifted the crate a millimeter off its position, the mechanized doors loudly slammed right behind {{Buttercup}} with the facility's alarm sounding off.
 
-The sudden exposure caused each member to tense up, but they knew what they got themselves into. Jobs like these hardly have a smooth happy ending. Hacker was able to unlock the doors, but the slam made it impossible to activate the motors to pull the halves apart. The doors had been sabotaged as they've violated standard building policies. The two inside had to pull the halves apart themselves. After pulling the crate though the busted door, vanguard had made their way out towards the exit hallway, past another security doorway with a barely lit exit sign. The hallway opened to a small section of side benches and consoles, but beyond those, it narrowed towards a turn at the end. A turn that brought the crew in full view of the Amiba guards making their way from the opposite end that led to the rendezvous point. The first sight of them was brought with bullets hailing towards vanguard, forcing the crew to backtrack into the storage area. The security doorway had already slammed shut by an AmIba specialist coming for them.
+The sudden exposure caused each member to tense up, but they knew what they got themselves into. Jobs like these hardly have a smooth happy ending. Hacker was able to unlock the doors, but the slam made it impossible to activate the motors to pull the halves apart. The doors had been sabotaged as they've violated standard building policies. The two inside had to pull the halves apart themselves. After pulling the crate though the busted door, vanguard had made their way out towards the exit hallway, past another security doorway with a barely lit exit sign. The hallway opened to a small section of side benches and consoles, but beyond those, it narrowed towards a turn at the end. A turn that brought the crew in full view of the Amiba guards making their way from the opposite end that led to the rendezvous point. The first sight of them was brought with bullets hailing towards vanguard, forcing the crew to backtrack into the storage area. The security doorway had already slammed shut by an AmIba specialist coming for them.
 
-The job soon took a disastrous turn as bullets flew down the corridor, where some were ricocheting off the security door. AmIba guards must have brought in they’re H.I.M. issued tech just for this hit. All it took was one stray ricocheting into the eye socket of the poor bastard carrying the schematic documents. Gangster slumped back against the wall, loosening his grip on his weapon to use the rest of his final moments to maneuver the chip out from his coat pocket but his arm went limp, as did his entire body. The chip was snatch by Kid, who took cover behind the thin corner that narrows the hallway. The vanguard was locked down.
+The job took a disastrous turn as bullets flew down the corridor, where some were ricocheting off the security door. AmIba guards must have brought in they’re H.I.M. issued tech just for this hit. All it took was one stray ricocheting into the eye socket of the poor bastard carrying the schematic documents. Gangster slumped back against the wall, loosening his grip on his weapon to use the rest of his final moments to maneuver the chip out from his coat pocket but his arm went limp, as did his entire body. The chip was snatch by Kid, who took cover behind the thin corner that narrows the hallway. The vanguard was locked down.
 
 >Gangster Girl: You fucked us! You fucking fucked us!
 
@@ -140,17 +140,17 @@ The job soon took a disastrous turn as bullets flew down the corridor, where som
 
 >Hacker: Because I promised.
 
-The full-metal security doors sprung open into the short corridor leading back to storage. It is certainly not the best escape route, as demonstrated by Brawny while carrying the weapon crate. He made a bad gamble after noticing the AmIba guards was on break for a reload, but he followed up too late. He took a shot in the arm holding the crate. It fell silently on its side in the orchestra of gunfire. He was already sluggish being the largest of the bunch, but lucky enough he managed to get to a safe spot in storage, behind the shelves of containers. Gangster Girl was shot down in her attempt to getting pass the security doors. She would have had a chance if she took 3 shots less to her shoulder blades and spine. Her lifeless body skid and rolled barely ahead of the doors, and her gun slid passed the weapon crate.
+The full-metal security doors sprung open into the short corridor leading back to storage. It is certainly not the best escape route, as demonstrated by Brawny while carrying the weapon crate. He made a bad gamble after noticing the AmIba guards was on break for a reload, but he followed up too late. He took a shot in the arm holding the crate. It fell silently on its side in the orchestra of gunfire. He was already sluggish being the largest of the bunch, but lucky enough he managed to get to a safe spot in storage, behind the shelves of containers. Gangster Girl was shot down in her attempt to getting pass the security doors. She would have had a chance if she took 3 shots less to her shoulder blades and spine. Her lifeless body skid and rolled barely ahead of the doors before the crate.
 
 >Brawny member: They fucking got me! I drop the box!
 
 >{{Buttercup}}: We need that for the full payout. I’m not losing money on this bullshit job.
 
-{{Buttercup}} presses herself against the wall and motions closer the edge but flinches away as streaks of high velocity rounds streamed into the storage area, seemingly missing the crate. The guards were likely ordered not to cause any damage to it and were sure to recapture the asset. It maybe worth more than 100 times their annual paychecks combined. After triple guessing himself, the kid mangled his way towards the storage area, leaving {{Buttercup}} behind. His goofy attempt got his foot caught on the crate, kicking it up laterally on its narrow side and him smacking the floor. It’s rectangular broadside peered back towards the AmIba guards, partially reflecting their movements. The kid crawled from behind the crate, into storage with a small blood trail from a busted lip. {{Buttercup}}  slid flatly behind it to use the crate itself as momentarily cover.
+{{Buttercup}} presses herself against the wall and motions closer the edge but flinches away as streaks of high velocity rounds streamed into the storage area, seemingly missing the crate. The guards were likely ordered not to cause any damage to it and were sure to recapture the asset. It maybe worth more than 100 times their annual paychecks combined. After triple guessing himself, the kid mangled his way towards the storage area, leaving {{Buttercup}} behind. His goofy attempt got his foot caught on the crate, kicking it up laterally on its narrow side and him smacking the floor. It’s rectangular broadside peered back towards the AmIba guards, partially reflecting their movements. The kid crawled from behind the crate, into storage with a small blood trail from a busted lip. {{Buttercup}}  slid flatly behind it to use the crate itself as momentarily cover.
 
 >{{Buttercup}}: Block them off!
 
-The reverberating slam echoed across the corridor and storage room with the neon exit above brightening up before shorting out. Muffled footsteps and clanking from the other side suggest the AmIba guards were attempting to force their through the doors. With this break of action, vanguard gathered around to assets their situation. Two members are wiped out and one and a half are leaking. Brawny's arm didn't get shredded by the AmIba's weapons, even though the shot could have been from a H.I.M. weapon. A quick patch up won't hold up for long, but it'll do for the rest of the night. The kid already bandaged his mouth, so we won't getting any of his lip. {{Buttercup}} dragged the crate along with the extra gun, towards the other two, but before she was let a word, Hacker cut into their comms.
+The reverberating slam echoed across the corridor and storage room with the neon exit above brightening up before shorting out. Muffled footsteps and clanking from the other side suggest the AmIba guards were attempting to force their through the doors. With this break of action, vanguard gathered around to assets their situation. Two members are wiped out and one and a half are leaking. Brawny's arm didn't get shredded by the AmIba's weapons, even though the shot could have been from a H.I.M. weapon. A quick patch up won't hold up for long, but it'll do for the rest of the night. The kid already bandaged his mouth, so we won't getting any of his lip. {{Buttercup}} dragged the crate towards the other two, but before she was let a word, Hacker cut into their comms.
 
 > Hacker: I have a new exit point. You'll have to backtrack a little to get to it, which mea-
 
@@ -164,13 +164,13 @@ The reverberating slam echoed across the corridor and storage room with the neon
 
 > {{Buttercup}}. Shit, we'll deal with that. Big guy, hope you're arm still works because you'll still carrying this fucking box. And Kid, keep that chip deep in your pocket.
 
-Kid groaned through his bandages in confirmation. Scrawny thing really can't do much but be a proxy. Now he's half useless for the rest of this job. The clarity of clanking and barking of orders from the exit pushed Vanguard to make their way through the stairwell, back into the hall way. A couple of AmIba were blocking the way towards the other half of the office space where the crew needed to be for their pickup. It was a matter of time AmIba took some causalities of their own as {{Buttercup}} took point to use the silencer to clear them out. This proved to a bad call once the crew were half towards the the exit, AmIba guards linked to the dead bodies, were already pouring through the stairwell and hallway, behind the crew. 
+Kid groaned through his bandages in confirmation. Scrawny thing really can't do much but be a proxy. Now he's half useless for the rest of this job. The clarity of clanking and barking of orders from the exit pushed Vanguard to make their way through the stairwell, back into the hall way. A couple of AmIba were blocking the way towards the other half of the office space where the crew needed to be for their pickup. It was a matter of time AmIba took some causalities of their own as {{Buttercup}} took point to use the silencer to clear them out. This proved to a bad call once the crew were half towards the the exit, AmIba guards linked to the dead bodies, were already pouring through the stairwell and hallway, behind the crew. 
 
-The getaway driver arrived right outside the exit that vanguard was just pulling out of, into the rain. {{Buttercup}} gave covering fire for the others leaving AmIba behind. Kid didn't screw up getting outside and made his way to open up the trucks doors. Luck wasn't so charitable to Brawny when AmIba managed to not miss most of him. AmIba couldn't to not execute him right there for they need to have someone to interrogate. Knowing his odds, Brawny thought it would be better to chuck the crate out in front of {{Buttercup}}.  She rushed to drag the crate into the trunk with one arm and firing back into the exit opening with the other. 
+The getaway driver arrived right outside the exit that vanguard was just pulling out of, into the rain. {{Buttercup}} gave covering fire for the others leaving AmIba behind. Kid didn't screw up getting outside and made his way to open up the trucks doors. Luck wasn't so charitable to Brawny when AmIba managed to not miss most of him. AmIba couldn't to not execute him right there for they need to have someone to interrogate. Knowing his odds, Brawny thought it would be better to chuck the crate out in front of {{Buttercup}}.  She rushed to drag the crate into the trunk with one arm and firing back into the exit opening with the other. 
 
 >{{Buttercup}}: Pull off already!
 
-The truck sped off into the city, but not without company. Driver only momentarily lost the AmIba interceptor before arriving at the rendezvous. 
+The truck sped off into the city, but not without company. Driver only momentarily lost the AmIba interceptor before arriving at the rendezvous. 
 
 >Hacker: You need to lose them,
 
@@ -192,7 +192,7 @@ The truck sped off into the city, but not without company. Driver only momentari
 
 >Driver: Corporate district? Shit, you really here to test me, huh!? And it's raining!
 
-The truck's nav brought up a route through the corporate district. Driver took a hard right, skidding out into the main roads. The truck weaved though the other cars and rocked the crew inside. It dodged blinding light of on-coming traffic but AmIba were still dogging them . Traffic got heavier, but driver didn't let off the pedal. Only thing on his mind was go. The next turn had the truck slipped into a 180. Driver had to punch it opposite to where the nav led. He nearly smashed the AmIba interceptor that streaked by. Another turn was taken to correct the crew back on track towards a bridge.  Driver floored it towards bridge, plowing through the intersections except the last. The forgotten interceptor punch into the edge of the truck and AmIba slammed into a concrete wall. The truck whipped and spun off course. The crew got rocked, {{Buttercup} was launched out, and the truck flipped and rolled though the dirt decline to crash into the river. 
+The truck's nav brought up a route through the corporate district. Driver took a hard right, skidding out into the main roads. The truck weaved though the other cars and rocked the crew inside. It dodged blinding light of on-coming traffic but AmIba were still dogging them . Traffic got heavier, but driver didn't let off the pedal. Only thing on his mind was go. The next turn had the truck slipped into a 180. Driver had to punch it opposite to where the nav led. He nearly smashed the AmIba interceptor that streaked by. Another turn was taken to correct the crew back on track towards a bridge.  Driver floored it towards bridge, plowing through the intersections except the last. The forgotten interceptor punch into the edge of the truck and AmIba slammed into a concrete wall. The truck whipped and spun off course. The crew got rocked, {{Buttercup} was launched out, and the truck flipped and rolled though the dirt decline to crash into the river. 
 
 >Hacker: . . . Oh no,
 
@@ -226,7 +226,7 @@ A nurse stood over {{Buttercup}} reading off her status from her medical tablet.
 
 >{{Buttercup}}: Alright. Cut me loose already.
 
-The first nurse performed the standard procedure to relieving {{Buttercup}} from the medical bed. While the first nurse prepare the room for the next patient, the second escorted {{Buttercup}} out of the medical office, to the lobby. {{Buttercup}} limped though the doorway while it was held open by nurse's foot as worked her tablet to finalized her dispatch. The tablet buzzed and obscured the dispatch form with an alert that read "If you can take care of this patient, I'll will guarantee you a large instant payment." The surprise made to her question how valid the request. She was made aware that the company will routinely send out phishing attempts, but not as intrusive as this. Another alert came through that read "Check your account now. The rest will be deposited if you take care of her". She quickly checked if this was too good to be true, but there it was,  the deposit. {{Buttercup}} came to the sliding doors until a tug on her shoulder stopped her. 
+The first nurse performed the standard procedure to relieving {{Buttercup}} from the medical bed. While the first nurse prepare the room for the next patient, the second escorted {{Buttercup}} out of the medical office, to the lobby. {{Buttercup}} limped though the doorway while it was held open by nurse's foot as worked her tablet to finalized her dispatch. The tablet buzzed and obscured the dispatch form with an alert that read "If you can take care of this patient, I'll will guarantee you a large instant payment." The surprise made to her question how valid the request. She was made aware that the company will routinely send out phishing attempts, but not as intrusive as this. Another alert came through that read "Check your account now. The rest will be deposited if you take care of her". She quickly checked if this was too good to be true, but there it was,  the deposit. {{Buttercup}} came to the sliding doors until a tug on her shoulder stopped her. 
 
 >Nurse: I can still take care of you.
 
@@ -236,15 +236,15 @@ The first nurse performed the standard procedure to relieving {{Buttercup}} from
 
 >{{Buttercup}}: Why are you helping me?
 
->Nurse: I'm not. But someone else is.  I don't know who really, but they've already convinced me.
+>Nurse: I'm not. But someone else is.  I don't know who really, but they've already convinced me.
 
 >{{Buttercup}}: . . . Hacker.
 
->Nurse: Who ever they are, they really care about you, if credits are anything to go by. 
+>Nurse: Who ever they are, they really care about you, if credits are anything to go by. 
 
 >{{Buttercup: Yeah. . . he sorta promised
 
->{{Blossom}}: I'm {{Blossom}} by the way.
+>{{Blossom}}: I'm {{Blossom}} by the way.
 
 >{{Buttercup}}: . . . {{Buttercup}}
 
@@ -268,7 +268,7 @@ The door opened up to a plain bed room, furnished with the bare necessities. Bed
 
 >{{Buttercup}}: I was part of the team.
 
->{{Blossom}}: The rest of them are dead. Even the AmIba security died to stop you guys. 
+>{{Blossom}}: The rest of them are dead. Even the AmIba security died to stop you guys. 
 
 >{{Buttercup}} examining her cast: That's how some jobs go.
 
@@ -298,7 +298,7 @@ The door opened up to a plain bed room, furnished with the bare necessities. Bed
 
 >{{Bubbles}}: I didn't need to do this job at all, but I did. And you wouldn't be here if I didn't.
 
->{{Blossom}}: It makes sense. You were part of that crash, but we found you right out in the lobby, near death.
+>{{Blossom}}: It makes sense. You were part of that crash, but we found you right out in the lobby, near death. 
 
 >{{Buttercup}}: Whatever. What are you here for, then? You want me to thank you, or tell me you're fucking sorry? I've already lost the the chance to getting that money.
 
@@ -306,13 +306,13 @@ The door opened up to a plain bed room, furnished with the bare necessities. Bed
 
 >{{Buttercup: . . .Bullshit.
 
->{{Bubbles}}: The full payout will be more because it'll be only us doing it. I even have your payout from cashing in the schematic.
+>{{Bubbles}}: The full payout will be more because it'll be only us doing it. I even have your payout from cashing in the schematic. 
 
 >{{Buttercup: The job's . . . still open?
 
-{{Buttercup}} sat up on the bed against the wall, her head tilted up to stare at the the lights, then back to the {{Bubbles}} on the slightly fuzzed screen. It was the one thing she thought about even since waking up from the hospital.
+{{Buttercup}} sat up on the bed against the wall, her head tilted up to stare at the the lights, then back to the {{Bubbles}} on the slightly fuzzed screen. It was the one thing she thought about even since waking up from the hospital. 
 
->{{Buttercup}}: I'm going finish this for my reasons only. We do this, and we're done working together.
+>{{Buttercup}}: I'm going finish this for my reasons only. We do this, and we're done working together. 
 
 >{{Bubbles}}: OK.
 
@@ -324,4 +324,7 @@ The door opened up to a plain bed room, furnished with the bare necessities. Bed
 
 >{{Buttercup}}: We can use another liability, sure.
 
->{{Blossom}}: I can help you and I can handle myself. Just like you, I'm doing this for my own reasons.
+>{{Blossom}}: I can help you and I can handle myself. Just like you, I'm doing this for my own reasons. 
+
+
+
