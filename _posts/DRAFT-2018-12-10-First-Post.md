@@ -37,7 +37,7 @@ Titillating company involved in media/escort services/merchandising that hires "
 
 ### Creations by Heavy Infantry Manufacturing (H.I.M.):
 
-Global Manufacturer of firearms, ammunitions, and hardware. Known for its unmatched high military grade equipment, they a contracted by government entities, NGO’s, PMCs, and other companies in industries such as security and finances. They even fulfill individual orders. This allows HIM to maintain a high budget for research and manufacturing to advancing its edge and providing its high standards. Slogan: "With Man's Perfect Creation, Nothing is Equal to Him"
+Global Manufacturer of firearms, ammunitions, and hardware. Known for its unmatched high military grade equipment, they a contracted by government entities, NGO’s, PMCs, and other companies in industries such as security and finances. They even fulfill individual orders. This allows HIM to maintain a high budget for research and manufacturing to advancing its edge and providing its high standards. Slogan: "With Man's Perfect Creation, Nothing is Equal to Him". HIM is AI making the weapons
 
 ### Femme Fatale Co. (Could just be Fatale Co.):
 
