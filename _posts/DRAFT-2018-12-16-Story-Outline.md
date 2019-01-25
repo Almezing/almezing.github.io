@@ -1,8 +1,8 @@
-{% assign Buttercup = "Buttercup" %}
+{% assign Buttercup = "Vanetta" %}
 
-{% assign Bubbles = "Bubbles" %}
+{% assign Bubbles = "Vyomi" %}
 
-{% assign Blossom = "Blossom" %}
+{% assign Blossom = "Valora" %}
 
 # Outline v2
 
