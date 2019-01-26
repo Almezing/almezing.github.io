@@ -40,7 +40,6 @@ bubbles born from an iniative between the professor and H.I.M. Corp. the profess
 
 buttercup born from a relationship the professor and vyolet greene. the first to be born from her womb. she's a researcher who worked in one of the medical companies in owned by him. she lead the development that made many medical breakthroughs kept interally. her rapid succuess caught the attention of the professor, who found interest in not only her research. yet this love was not long lived, vyolent made herself became sick from stress and overwork. she stopped developing in her research and all projects headed by her were paused. professor took care of her, she got better, they decide to have kids, but both being scientist, used their research to create embryos led to the girls. her research led to what led buttercups embryo. 
 
-
 sythetic blood plasma
 
 of a super serum that can hold abundant amount of exogenous substances in the plasma. 
