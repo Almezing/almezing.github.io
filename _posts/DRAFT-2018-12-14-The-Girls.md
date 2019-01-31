@@ -45,7 +45,7 @@ Does this stuff really matter?
 
 ### Vyomi ({{Bubbles}})
 * Info
-    + Alias: CyberVyrus Support Class
+    + Alias: CyberVyrus Support Class Esports Player - the best
     + Associations - HIM (association stems from a unique interface to properly integration HIM technology) 
     + Age: {{Age}} 
     + Occuptation: Freelance hacker  
