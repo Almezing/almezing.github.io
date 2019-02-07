@@ -51,7 +51,7 @@ Professor Lumpkins, also known as "Fuzzy" by his colleagues and students, is a r
 
 One of the largest securities companies after a merger between AMPM Secured and Iba Informatics, AmIba employs millions across the global to provide services to various industries and thousands of companies. It's a wonder how the company continue to employ and operate as worker casualty remains at a worryingly high amount every year. It was rumored that Dr. Abrahm Cadavera, a researcher in bio-necrology, virology, and biome processing, and is heavily involved in the company's employee retention program.
 
-### The Brassica Foundation (The Broccoloid Aliens):
+### Brassica Foundation (The Broccoloid Aliens):
 
 A philanthropic company that sells healthy but low-cost food alternatives and other products. Any unsold products are shipped to Brassica, who distrubutes and provides them to the poor. People believe this is just for appeareancea as the company is fairly new in the industry it operates in. The poor and needy praise them for their efforts helping them. Some are even given a second chance at life to work for the foundation and advertize to others to try Brassica products. Brassica always has a supply of the products despite the trend of industry shortages.
 
