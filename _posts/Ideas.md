@@ -45,3 +45,5 @@ sythetic blood plasma
 of a super serum that can hold abundant amount of exogenous substances in the plasma. 
 
 https://www.youtube.com/watch?v=qbgf1DIP_oE
+
+some character had their arms replaced due to birth defect. doctor told them they need to exercise enough to keep up with their arms. but parents must upgrade his arms ever so often to keep with with body growth. it became costly and parents lost everything to keep up with the payments. one died, the other abandon the child. kid never got the final upgrade for adult hood. kid managed to get the upgrade, but the quality was awful. so they spend their time improving the arms.
