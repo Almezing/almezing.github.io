@@ -61,4 +61,4 @@ A spoiled, young celebrity who prides herself for never using makeup, neither co
 Others may be added later. Candidates include:
 - Robbing Leec
 - The Smith
-- Princess Morbucks
+-<strike>Princess Morbucks</strike>
