@@ -53,3 +53,5 @@ some character had their arms replaced due to birth defect. doctor told them the
 episodic stories that examples the world and how the girls operate within it. 
 
 what goes down when they worked together for the first time? the missions is a success, not without someone getting hurt. blossom gets hurts and bubbles. bubbles is forced to be present for the job to work. she gets a glimps of who they stole from. the data was meant to go straight to H.I.M.'s corporate, but was intercepted last minute. once bubbles, she was shocked through the console. 
+
+The professor originally wanted to help solve hereditary birth defect that made new born babies female. He thought to genetically engineer baby boys whose DNA would counteract the affects. However He was blind sided at the time when he found out the babies were born with the same defect, all female. Their surrogate mother, the love of his life, had the dormant gene and doomed all his research. 
