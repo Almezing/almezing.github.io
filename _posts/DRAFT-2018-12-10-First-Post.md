@@ -28,7 +28,7 @@ A charismatic speaker that advocates the use of technology to expand city infrac
 ### Mojo Jojo (shorten to Jojo, may need to change):
 Another of Professor Secret experiments that demonstrated how increasing higher intelligence in non-human primates can be achieved. Due to his fear that he may underestimate Mojo Jojo’s, the professor closely monitors him, doing it with a caring fatherly facade. Replaces the Professor with a copy to continue running the company. Extremely limited amount of personnel have seen him, but the rumors say he is very sophisticated. He continues the Professor’s experiments and even conducts his own.
 
-### Gangrene Gang (may just be Greene Gang):
+### Grinders (Represents Gangreene Gang):
 Auto-Biohacking group consisting of zealous members. The process of induction for new members is done by completing extremely difficult tasks to the point of suicide of martyrdom status. This is the only way members can show that they truly believe they are to be accepted. This task makes it almost a certainty these new members returning with life threatening wounds and missing limbs. Some do not return, leaving abandonment or death as the only valid assumptions. Once accepted, members are administered a secret injection, not known to the outside, that’ll force their body to regenerate damage parts, but the healing process leaves the affect area with green pigment. 
         
 ### SeDuSa Poly-Services (May need to change):
