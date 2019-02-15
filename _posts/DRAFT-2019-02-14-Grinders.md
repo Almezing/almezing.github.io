@@ -1,4 +1,5 @@
-buttercup
+
+https://en.wikipedia.org/wiki/Grinder_(biohacking)
 
 Buttercup - "Only the Strong may enter" 
 
