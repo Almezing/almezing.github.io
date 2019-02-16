@@ -1,5 +1,5 @@
 ### Grinders (Represents Gangreene Gang):
-Auto-Biohacking group consisting of zealous members who are brutal in their conduct. The process of induction for new members is done by completing extremely difficult tasks to the point of suicide of martyrdom status. This is the only way members can show that they truly believe they are to be accepted. The tasks makes it almost a certainty these new members return with life threatening wounds and missing limbs. Some do not return, leaving abandonment or death as the only valid assumptions. Once accepted, members are administered a secret injection, not known to the outside, that’ll force their body to regenerate damage parts, but the healing process leaves the affect area with green pigment. Some members try to improve themselves with body parts of anyone they want, most times by force. 
+Auto-Biohacking group consisting of zealous members who are brutal in their conduct. The process of induction for new members is done by completing extremely difficult tasks to the point of suicide of martyrdom status. This is the only way members can show that they truly believe they are to be accepted. The tasks makes it almost a certainty these new members return with life threatening wounds and missing limbs. Some do not return, leaving abandonment or death as the only valid assumptions. Once accepted, members are administered a secret injection, not known to the outside, that’ll force their body to regenerate damage parts, but the healing process leaves the part with green pigment. Some members try to improve themselves with body parts of anyone they want, most times by force. 
 
 https://en.wikipedia.org/wiki/Grinder_(biohacking)
 
@@ -33,6 +33,8 @@ Buttercup - "But who am I looking for?"
 
 The guard ignored her. She turned towards the organized land fill and watched how the members were processing the hardware and wetware like jigsawed disassembly workers. There were no live victims to be seen. Everything they touch was already powered down and lifeless. Remembering the section the guard pointed towards, Buttercup motioned down further into the meat grinder. She found the spot and a several members around an enclosed room they were seemingly guarding. A slender build member noticed her approach. 
 
+    Could describe Ace's appearance.
+    
 Buttercup - "Guard up front said you're the one I talk to"
 
 Ace - "We got a new one coming, boys. I'm Ace."
