@@ -31,10 +31,10 @@ Watcher guard - "Walk towards the left end corner. He'll be there"
 
 Buttercup - "But who am I looking for?"
 
-The guard ignored her. She turned towards the organized land fill and watched how the members were processing the hardware and wetware like jigsawed disassembly workers. There were no live victims to be seen. Everything they touch was already powered down and lifeless. Remembering the section the guard pointed towards, Buttercup motioned down further into the meat grinder. She found the spot and a several members around an enclosed room they were seemingly guarding. A slender build member noticed her approach. 
+The guard ignored her and walked back to his post. She turned towards the organized land fill and watched how the members were processing the hardware and wetware like jigsawed disassembly workers. There were no live victims to be seen. Everything they touch was already powered down and lifeless. Remembering the section the guard pointed towards, Buttercup motioned down further into the meat grinder. She found the spot and a several members around an enclosed room they were seemingly guarding. One member noticed her approach. 
 
     Could describe Ace's appearance.
-    
+
 Buttercup - "Guard up front said you're the one I talk to"
 
 Ace - "We got a new one coming, boys. I'm Ace."
@@ -47,4 +47,7 @@ Buttercup - "So what I gotta do?"
 
 Ace - "What you gotta do is get in there, that room, and prove yourself.
 
-His greenish finger pointed towards the enclosed room. 
+His greenish finger pointed towards the enclosed room. He was slender but tall. Although ragged, he wore enough clothing that covered most of the green on his body. His face was the only part with natural color. He was the only one out of the group to command some authority as he waved away the others from the door. 
+
+    outline,
+    Buttercup meets with the leader, an old scientist. He gives her a missions where she must bring back a member who is schedules to be transfered. A heavly armed 
