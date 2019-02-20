@@ -54,3 +54,5 @@ what goes down when they worked together for the first time? the missions is a s
 
 The professor originally wanted to help solve a hereditary birth defect that made new born babies female. He thought to genetically engineer baby boys whose DNA would counteract the affects. However, he was blind sided. He overlooked a crucile component by the time he found out the babies were born with the same defect, all female. Their surrogate mother, the love of his life, had the dormant gene. Her secret doomed his research, but she died after their birth. He didn't want to raise them because of his grief, so a put them out into the world, and watches them from afar. 
 
+Bubbles body dysmorphic disorder. Similar feelings to cisgender vs transgender. Converses with a transgender person about the feeling of being in the wrong body
+
