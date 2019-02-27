@@ -9,10 +9,11 @@ comments: true
 {% assign Bubbles =  "Vyomi" %}
 
 {% assign Blossom =  "Valora" %}
+ 
 
 
 # THEMES
-Morally gray, relatable, empathy, sympathy, corruption, sacrifice, forbidden, technology, decay, cyberpunk, conflicts, weapons, military, twists, jobs, heists, mercenaries, 
+Morally gray, relatable, empathy, sympathy, corruption, sacrifice, forbidden, technology, decay, cyberpunk, conflicts, weapons, military, twists, jobs, heists, mercenaries,
 # Outline
 
 The girls are experiments. Each created to test a specific hypothesis the Professor wanted to answer. He could not enclose them in a lab for monitoring. The data gathered would be too limited for anything meaningful. He needed to gather data on them in the open world, to yield promising results. With the largest conglomerate entity at his finger tips, he set up a system that’ll monitor the girls, at every moment of their lives. Only then he’ll be able to put forth his answers. 
