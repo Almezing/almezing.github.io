@@ -56,3 +56,4 @@ The professor originally wanted to help solve a hereditary birth defect that mad
 
 Bubbles body dysmorphic disorder. Similar feelings to cisgender vs transgender. Converses with a transgender person about the feeling of being in the wrong body. But conflict arises
 
+Brassica creates sleeper agents that hide inside the body of a oblivious carriers. Agents mimic/copy the genetic signature of the host to stay hide. Once they are at their objective, the violently split off from the host and attack. These agents are known as Chimeras. They get their information from what the host digest, the food that Brassica give away. Multiple Chimeras can inhabit a host. They are extremely slender but deadly and can grow through consumption, usually the host victim.
