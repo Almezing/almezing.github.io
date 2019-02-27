@@ -10,7 +10,7 @@ comments: true
 
 {% assign Blossom =  "Valora" %}
  
-### Powerpunk 
+# Powerpunk 
 
 # THEMES
 Morally gray, relatable, empathy, sympathy, corruption, sacrifice, forbidden, technology, decay, cyberpunk, conflicts, weapons, military, twists, jobs, heists, mercenaries,
