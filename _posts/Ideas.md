@@ -34,7 +34,7 @@ Paragraph
 ---
 
 
-blossom born from a failed test candidate. her mother was meant to test the viability of inducing inate telekinesis through selective multi-generational breeding. unlike her offerspring, she failed to show any effect of the ability as did those who were tested before her. she dead during the final stages of the test, her eggs were immediatory stored. the professor bought the research company, bellum, that conducted the 60 year experiment, of which sasha bellum being the lastest head of the company. she is the great great grand daught of sara bellum.
+Blossom was made from a failed test candidate. Her mother was meant to test the viability of inducing inate telekinesis by isolating specific genes through selective multi-generational breeding. Unlike her offerspring, she failed to show any effects of the ability as did those who were tested before her. She died during the final stages of the test, her eggs were immediatory stored. Some of these eggs past preliminary screening but one of them proved viable. The professor bought the research company, Bellum, that conducted the 60 some year experiment, of which Sasha Bellum being the lastest head of the company. She is the great great grand daught of Sara Bellum, whom was admitted into an asylum for insanity. She hallucinated for the rest of her life  and died via suicide. Some internal rumors from the Bellum suggest initial testings she conducted induced her psychosis..
 
 bubbles born from an iniative between the professor and H.I.M. Corp. the professor provided h.i.m. with the funs as investment, while h.i.m. took this to conduction their own research into several projects. the professor picked one he saw most interesting to experiment with first, which was an extremely experimental bio-meta-materials developed h.i.m,'s AI., that was an analogue of stem cells. internally called mimic material, the professor use this to develop batches of embryos. but only one proved viable. 
 
@@ -55,3 +55,8 @@ what goes down when they worked together for the first time? the missions is a s
 The professor originally wanted to help solve a hereditary birth defect that made new born babies female. He thought to genetically engineer baby boys whose DNA would counteract the affects. He was blind sided, however
 for he overlooked a crucile component in the process. The babies were all born with the same defect, all female. Their surrogate mother, the love of his life, had the dormant gene. Her secret doomed his research, but she died after their birth. He didn't want to raise them because of his grief, so a put them out into the world, and watches them from afar. [End sentence could be different. Maybe they were attacked, and everyone was scattered]
 
+Bubbles body dysmorphic disorder. Similar feelings to cisgender vs transgender. Converses with a transgender person about the feeling of being in the wrong body. But conflict arises
+
+Brassica creates sleeper agents that hide inside the body of a oblivious carriers. Agents mimic/copy the genetic signature of the host to stay hidden. Once they are at their objective, they violently split off from the host and attack. These agents are known as Chimeras. They get their information from what the host digest, the food that Brassica give away. Multiple Chimeras can inhabit a host. They are extremely slender but deadly and can grow in size through consumption, usually eating the host victim.
+
+bubbles lives in VR chat

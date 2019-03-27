@@ -57,7 +57,7 @@ Does this stuff really matter?
     + Likes: 
     + Dislikes: 
     + Powers: Technomancy, Augmentation 
-    + Concept based off of Hatsune Miku (Vocaloid), Jinx (LoL)
+    + Concept based off of Hatsune Miku (Vocaloid), Jinx (LoL), T-1000 (Terminator)
 
 >We’re a full team. 2 fighters, 2 tanks, and a healer which is me. I hate it when the system sets it up like this. Very unfair. The other team will have a hay day with us.
 
