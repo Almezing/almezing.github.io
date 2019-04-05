@@ -2,5 +2,8 @@ The alarm is going to hit 5:30 soon. I have to get up for the run. It takes me 2
 
 She rose and slipped out of the bed and sheets to immediately put on her goto gear for anything that outside. Before she made it to the door, her phone ranged in her pocket. "BLOCKED NUMBER"  it read across its small screen of a few hundrud pixels. 
 
-"Just stop already. I'm not going back" She muttered as she muted the device. "I have too many things to worry able anyway". She made her way through the door outside the house, onto the sidewalk of her darkly light street. She looked around the area out of instinct, took a deep breahth, and start her morning run around the block. It's a luxury her neighborhood was save enough at this time and luminosity to run out oh her own. Any place outside the corporate area would considered too dangerous for most, but it wouldn't matter for Blossom. She'll rather skip the run to avoid any delays in her day. 
+"Just stop already. I'm not going back" She muttered as she muted the device. "I have too many things to worry about anyway". She made her way through the door outside the house, onto the sidewalk of her darkly light street. She looked around the area out of instinct, took a deep breahth, and start her morning run around the block. It's a luxury her neighborhood is safe enough at this time and luminous enough to run out on her own. Any place outside the corporate area would considered too dangerous for most, but it wouldn't matter for Blossom. Not many things can delay her day. 
 
+She is on a run? But what happens? She halluciates the entire time running.
+
+R
