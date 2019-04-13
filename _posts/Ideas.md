@@ -62,4 +62,6 @@ bubbles lives in VR chat
 
 Experiment data leading up to their both is stored in the girls DNA.
 
-buttercup panacea
+buttercup is panacea
+
+majority of the population carries a weapon. but some are seldom to use it
