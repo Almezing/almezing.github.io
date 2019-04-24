@@ -65,3 +65,5 @@ Experiment data leading up to their both is stored in the girls DNA.
 buttercup is panacea
 
 majority of the population carries a weapon. but some are seldom to use it
+
+http://www.eng.auburn.edu/~nelson/courses/elec4200/elec4200.html
