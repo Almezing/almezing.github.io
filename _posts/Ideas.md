@@ -59,3 +59,11 @@ Bubbles body dysmorphic disorder. Similar feelings to cisgender vs transgender. 
 Brassica creates sleeper agents that hide inside the body of a oblivious carriers. Agents mimic/copy the genetic signature of the host to stay hidden. Once they are at their objective, they violently split off from the host and attack. These agents are known as Chimeras. They get their information from what the host digest, the food that Brassica give away. Multiple Chimeras can inhabit a host. They are extremely slender but deadly and can grow in size through consumption, usually eating the host victim.
 
 bubbles lives in VR chat
+
+Experiment data leading up to their both is stored in the girls DNA.
+
+buttercup is panacea
+
+majority of the population carries a weapon. but some are seldom to use it
+
+http://www.eng.auburn.edu/~nelson/courses/elec4200/elec4200.html
