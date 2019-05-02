@@ -12,6 +12,4 @@ She noticed in the distance at one of the folks ahead, one these vagrants,sittin
 
 He was assertive enough to block her path but only partially, but him holding out his container further reduced the amount of space available. In a deep and gargled voice "Got any space cred?" but Blossom followed the routine. However just before passing him, he gruntled and belched an almost acidic fume. She winced from the auburn haze as it left a burning sensation in her eyes and nose. Before Blossom could further herself, she felt a faint tug on her arm. "Let me apologize at least. I didn't mea-" but she immediately picked up her pace and pulled away from him, slipping through his grasp. 
 
-
-
 Outline: She further hallucinates her day. She gets back home, showers, dressed and out for the commute. Things are normal, but a bit off. She ignores it all. She arrives at the, [Hospital-Name] where she works, a prominant hospital, that specializes in neurology and neurosurgery. 
