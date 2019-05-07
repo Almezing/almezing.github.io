@@ -69,4 +69,4 @@ majority of the population carries a weapon. but some are seldom to use it
 http://www.eng.auburn.edu/~nelson/courses/elec4200/elec4200.html
 
 
-robbery involving threft of an ultra wealthy family heirloom passed dowm from generations. for strong sentamental jewelry 
+robbery involving threft of an ultra wealthy family heirloom passed dowm from generations. very strong sentamental jewelry 
