@@ -66,6 +66,8 @@ buttercup is panacea
 
 robbery involving threft of an ultra wealthy family heirloom passed dowm from generations. very strong sentamental jewelry 
 
+professor's project valkyrie
+
 http://www.eng.auburn.edu/~nelson/courses/elec4200/elec4200.html
 
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
