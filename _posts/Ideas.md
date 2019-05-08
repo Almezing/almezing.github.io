@@ -64,9 +64,10 @@ Experiment data leading up to their both is stored in the girls DNA.
 
 buttercup is panacea
 
-majority of the population carries a weapon. but some are seldom to use it
+robbery involving threft of an ultra wealthy family heirloom passed dowm from generations. very strong sentamental jewelry 
 
 http://www.eng.auburn.edu/~nelson/courses/elec4200/elec4200.html
 
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 
-robbery involving threft of an ultra wealthy family heirloom passed dowm from generations. very strong sentamental jewelry 
+https://scripter.co/notes/string-fns-nim-vs-python/
