@@ -73,3 +73,65 @@ http://www.eng.auburn.edu/~nelson/courses/elec4200/elec4200.html
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 
 https://scripter.co/notes/string-fns-nim-vs-python/
+
+# sum all numbers that factorable by 3 and 5
+# NumResult = []
+
+# for i in range(1000):
+#     if i % 3 == 0 or i % 5 == 0:
+#         NumResult.append(i)
+
+# print(sum(NumResult))
+
+# find the fib sequence
+# x = 1
+# y = 2
+# z = 0
+# NumResult = []
+# for i in range(10):
+#     if z < 2:  
+#         z += 1
+#     else:
+#         z = x + y
+#         x = y
+#         y = z    
+#     if z % 2 == 0:
+#         NumResult.append(z)
+# print(sum(NumResult))
+
+# def largestPrimeFactor():
+#     print("yo")
+
+# largestPrimeFactor()
+
+# a_list = ( 1 , "crap", 2, "poop")
+
+# for i , val in enumerate(a_list):
+#     print(i, val)
+# print(list(enumerate(a_list)))
+
+# a, b , c ,d = a_list
+
+# print(a, b, c, d,)
+
+print("Enter number of players: ")
+players = input()
+
+playerHands_dict = {}
+if players != '':
+    for i in range(int(players) + 1):
+        print(eval(str(i > int(players))))
+        if i > int(players)-1:
+            playerHands_dict["Dealer"] = 0
+        else:
+            playerHands_dict["Player " + str(i+1)] = 0
+        
+else:
+    print('no number')
+
+
+    
+    #print(eval(str(i+1)))
+    print(playerHands_dict)
+
+# print(sorted(playerHands_dict)[-1])
