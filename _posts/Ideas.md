@@ -113,28 +113,34 @@ https://scripter.co/notes/string-fns-nim-vs-python/
 # a, b , c ,d = a_list
 
 # print(a, b, c, d,)
+players = input("Enter number of players: ")
 
-print("Enter number of players: ")
-players = input()
-
+# if not players:
+#     print(True)
+# else:
+#     print(False)
 playerHands_dict = {}
-if players != '':
+
+try:
+    pass
+except ValueError: as identifier:
+    pass players :
+
     for i in range(int(players) + 1):
-        print(eval(str(i > int(players))))
-        if i > int(players)-1:
+        # print(eval(str(i > int(players) - 1)))
+        if i > int(players) - 1:
             playerHands_dict["Dealer"] = 0
         else:
             playerHands_dict["Player " + str(i+1)] = 0
-        
 else:
     print('no number')
+   
+#print(eval(str(i+1)))
 
-
-    
-    #print(eval(str(i+1)))
-    print(playerHands_dict)
+# print(playerHands_dict)
 
 # print(sorted(playerHands_dict)[-1])
+
 
 
 import random
