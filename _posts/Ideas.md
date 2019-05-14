@@ -135,3 +135,29 @@ else:
     print(playerHands_dict)
 
 # print(sorted(playerHands_dict)[-1])
+
+
+import random
+
+
+deck = {
+    1 : 4,
+    2 : 4,
+    3 : 4,
+    4 : 4,
+    5 : 4,
+    6 : 4,
+    7 : 4,
+    8 : 4,
+    9 : 4,
+    10 : 16,
+    11: 4
+}
+
+#for keys, vals in deck.items():
+#keys = random.shuffle(deck)
+
+keys = random.randint(1,10)
+print(keys)
+deck[keys] = deck[keys] - 1
+print(deck[keys])
