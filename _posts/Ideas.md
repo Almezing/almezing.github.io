@@ -147,7 +147,7 @@ import random
 
 
 deck = {
-    1 : 4,
+    1 : 0,
     2 : 4,
     3 : 4,
     4 : 4,
@@ -163,7 +163,17 @@ deck = {
 #for keys, vals in deck.items():
 #keys = random.shuffle(deck)
 
-keys = random.randint(1,10)
+#keys = random.randint(1,10)
+keys = 1
 print(keys)
-deck[keys] = deck[keys] - 1
+
+def deal():
+    if deck[keys] > 0:
+        deck[keys] = deck[keys] - 1
+    else:
+       pass
+        #deal()
+deal()
+print(deck[keys])
+deal()
 print(deck[keys])
