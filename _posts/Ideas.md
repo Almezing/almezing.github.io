@@ -74,3 +74,20 @@ https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 
 https://scripter.co/notes/string-fns-nim-vs-python/
 
+import random
+deck = []
+def deal():
+    nocard = True
+    while nocard: 
+        card = random.randint(1,10)
+        if deck.count(card) < 4 and len(deck) < 52:
+            deck.append(card)
+            nocard = True
+        elif card == 10 and deck.count(card) < 16 and len(deck) < 52:
+            deck.append(card)
+            nocard = True
+        else:
+            nocard = False
+for i in range(0,1000):
+   deal()
+print(len(deck), ": ", deck, deck.count(10))
