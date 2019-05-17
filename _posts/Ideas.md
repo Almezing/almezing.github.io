@@ -74,11 +74,41 @@ https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 
 https://scripter.co/notes/string-fns-nim-vs-python/
 
+https://realpython.com/python-web-applications/#dynamic-web-app
+
 import random
+
+players = input("Enter number of players: ")
+
+# if not players:
+#     print(True)
+# else:
+#     print(False)
+playerHands_dict = {}
+
+# try:
+#     pass
+# except ValueError: as identifier:
+#     pass players :
+
+for i in range(int(players) + 1):
+    # print(eval(str(i > int(players) - 1)))
+    if i > int(players) - 1:
+        playerHands_dict["Dealer"] = 0
+    else:
+        playerHands_dict["Player " + str(i+1)] = 0
+   
+#print(eval(str(i+1)))
+
+# print(playerHands_dict)
+# TODO 
+# print(sorted(playerHands_dict)[-1])
+
+
 deck = []
 def deal():
     nocard = True
-    while nocard: 
+    if nocard: 
         card = random.randint(1,10)
         if deck.count(card) < 4 and len(deck) < 52:
             deck.append(card)
@@ -88,6 +118,6 @@ def deal():
             nocard = True
         else:
             nocard = False
-for i in range(0,1000):
-   deal()
-print(len(deck), ": ", deck, deck.count(10))
+deal()
+
+print(len(deck), ": ", deck)
