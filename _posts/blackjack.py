@@ -16,7 +16,6 @@
 #     Hands
 #         *5 Card Charlie
 
-
 # Gui 
 
 import random
