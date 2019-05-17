@@ -76,6 +76,27 @@ https://scripter.co/notes/string-fns-nim-vs-python/
 
 https://realpython.com/python-web-applications/#dynamic-web-app
 
+# Black Jack
+
+# Stages
+#     Player Count
+#     Dealing
+#     Playing
+#         Players Hit/Staying
+#         Dealer Hit/Staying
+#     Scoring
+#         21 or over
+#         Higher/Lower/Equal Dealer
+# Deck
+#     1-11
+#     Track Numbers
+#         Ace vs 1
+#     Hands
+#         *5 Card Charlie
+
+
+# Gui 
+
 import random
 
 players = input("Enter number of players: ")
@@ -121,3 +142,4 @@ def deal():
 deal()
 
 print(len(deck), ": ", deck)
+
