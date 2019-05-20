@@ -1,6 +1,8 @@
 import random
 
-players = input("How many players ")
+
+
+players = int(input("How many players "))
 playerHands_dict = {}
 
 deck = []
@@ -37,13 +39,14 @@ def dealCard(dealt_card = 1):
 # except expression as identifier:
 #     pass
 
-playerHands_dict = {"Player " + str(i): [] for i in (range(1, players+1))}
+
+playerHands_dict = {"Player " + str(i): [] for i in (range(1, players + 1))}
 playerHands_dict["Dealer"] = []
 
 # TODO dealCard() returns any number of cards, dispite it having a limit
 for i in range(1000):
     playerHands_dict["Player 1"].append(dealCard())
 
-# print(playerHands_dict)
-playerHands_dict["Player 1"] = filter(None, playerHands_dict["Player 1"])
+playerHands_dict["Player 1"] = sorted(list(filter(None, playerHands_dict["Player 1"])))
+# print(type(playerHands_dict))
 print(len(playerHands_dict["Player 1"]), playerHands_dict["Player 1"])
