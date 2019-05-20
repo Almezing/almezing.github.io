@@ -1,7 +1,5 @@
 import random
 
-
-
 players = input("How many players ")
 playerHands_dict = {}
 
