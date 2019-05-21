@@ -20,12 +20,17 @@
 
 import random
 
-players = int(input("How many players "))
-allHands_dict = {}
+# force user to impot an integer
+while True:
+    try:
+        players = int(input("How many players "))
+        break
+    except ValueError:
+        print("Valid number required. Try again..")
 
+allHands_dict = {}
 deck = []
-# hand = []
-#deal a card from the deck 
+
 def dealCard(dealt_card = 1):
     """
     docstring here
@@ -54,17 +59,6 @@ def dealCard(dealt_card = 1):
                 return None
         else:
             return None
-
-# hand.append(dealCard(player_hand = hand))
-# hand.append(dealCard(player_hand = hand))
-# hand = filter(None, hand)
-# print('Hand' , hand)
-
-# try:
-#     pass
-# except expression as identifier:
-#     pass
-
 
 allHands_dict = {"Player " + str(i): [] for i in (range(1, players + 1))}
 allHands_dict["Dealer"] = []
