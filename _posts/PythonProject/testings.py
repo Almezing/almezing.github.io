@@ -7,7 +7,8 @@ playerHands_dict = {}
 
 deck = []
 # hand = []
-#deal a card from the deck 
+#deal a card from the deck
+# TODO need to say when all cards of the deck have been dealt
 def dealCard(dealt_card = 1):
     for new_card in range(0, dealt_card):
         no_more_cards = True
