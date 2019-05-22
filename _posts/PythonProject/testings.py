@@ -1,15 +1,47 @@
+# Black Jack
+
+# Stages
+#     Players 
+#         Count
+#     Dealing
+#         Deck 
+#             1-10
+#             Track cards
+#             Ace vs 11
+#     Playing
+#         Hands
+#             5 Card Charlie
+#         Players Hit/Staying
+#         Dealer Hit/Staying
+#     Scoring
+#         21 or over
+#         Higher/Lower/Equal Dealer
+# Gui 
+
 import random
 
+# force user to impot an integer
+while True:
+    try:
+        players = int(input("How many players "))
+        break
+    except ValueError:
+        print("Valid number required. Try again..")
 
-
-players = input("How many players ")
-playerHands_dict = {}
-
+allHands_dict = {}
 deck = []
 # hand = []
 #deal a card from the deck
 # TODO need to say when all cards of the deck have been dealt
 def dealCard(dealt_card = 1):
+    """
+    docstring here
+        :param dealt_card=1: 
+
+        returns a random card to the players hand.
+        builds deck to track how many cards were dealt
+        all face cards treated as 10
+    """
     for new_card in range(0, dealt_card):
         no_more_cards = True
         if no_more_cards: 
@@ -30,23 +62,19 @@ def dealCard(dealt_card = 1):
         else:
             return None
 
-# hand.append(dealCard(player_hand = hand))
-# hand.append(dealCard(player_hand = hand))
-# hand = filter(None, hand)
-# print('Hand' , hand)
+allHands_dict = {"Player " + str(i): [] for i in (range(1, players + 1))}
+allHands_dict["Dealer"] = []
 
-# try:
-#     pass
-# except expression as identifier:
-#     pass
-
-playerHands_dict = {"Player " + str(i): [] for i in (range(1, players+1))}
-playerHands_dict["Dealer"] = []
-
-# TODO dealCard() returns any number of cards, dispite it having a limit
+# TODO dealCard() returns any thing, dispite it having a limit
 for i in range(1000):
-    playerHands_dict["Player 1"].append(dealCard())
+    allHands_dict["Player 1"].append(dealCard())
 
-# print(playerHands_dict)
-playerHands_dict["Player 1"] = filter(None, playerHands_dict["Player 1"])
-print(len(playerHands_dict["Player 1"]), playerHands_dict["Player 1"])
+allHands_dict["Player 1"] = list(filter(None, allHands_dict["Player 1"]))
+# print(type(allHands_dict))
+print(len(allHands_dict["Player 1"]), allHands_dict["Player 1"])
+
+
+selenium
+beautifulsoup4
+splinter
+time
