@@ -72,3 +72,7 @@ for i in range(1000):
 allHands_dict["Player 1"] = list(filter(None, allHands_dict["Player 1"]))
 # print(type(allHands_dict))
 print(len(allHands_dict["Player 1"]), allHands_dict["Player 1"])
+
+scrapy
+
+https://www.quora.com/How-can-I-build-a-web-application-that-does-web-scraping
