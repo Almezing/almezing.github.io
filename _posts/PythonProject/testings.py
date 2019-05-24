@@ -76,3 +76,6 @@ print(len(allHands_dict["Player 1"]), allHands_dict["Player 1"])
 scrapy
 
 https://www.quora.com/How-can-I-build-a-web-application-that-does-web-scraping
+https://realpython.com/modern-web-automation-with-python-and-selenium/#test-driving-a-headless-browser
+https://stackoverflow.com/questions/17975471/selenium-with-scrapy-for-dynamic-page
+https://stackoverflow.com/questions/50637920/integrate-scrapy-with-django-how-to
