@@ -77,3 +77,5 @@ https://scripter.co/notes/string-fns-nim-vs-python/
 https://realpython.com/python-web-applications/#dynamic-web-app
 
 homo mechanica
+
+bloodrunner
