@@ -10,7 +10,9 @@ comments: true
 
 {% assign Blossom =  "Valora" %}
  
-# CPG
+# CPG 
+Cyan Pink Green
+Cyber Punk Girls
 
 # THEMES
 Morally gray, relatable, empathy, sympathy, corruption, sacrifice, forbidden, technology, decay, cyberpunk, conflicts, weapons, military, twists, jobs, heists, mercenaries,
