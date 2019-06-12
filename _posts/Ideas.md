@@ -79,3 +79,4 @@ https://realpython.com/python-web-applications/#dynamic-web-app
 homo mechanica
 
 bloodrunner
+https://www.artstation.com/artwork/nQ8LNE
