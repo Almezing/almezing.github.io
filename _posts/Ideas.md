@@ -1,5 +1,5 @@
 
-femme fatale - highest rank - maneater - blossom one of the few to complete the program.
+femme fatale - highest rank - maneater - blossom one of the few to complete the program. her code name is hibiscus. her rival is violet.
 
 coma, hack, dimension theory - story takes place in the false worlds after reawakening from a coma, restore from hack, reemerge from the rift. this makes the setting progressively weirder
 
