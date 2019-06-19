@@ -80,3 +80,5 @@ homo mechanica
 
 bloodrunner
 https://www.artstation.com/artwork/nQ8LNE
+
+https://www.artstation.com/artwork/lVlYGo
