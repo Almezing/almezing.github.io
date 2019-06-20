@@ -20,19 +20,26 @@
 
 import random
 
-# force user to impot an integer
-while True:
-    try:
-        players = int(input("How many players "))
-        break
-    except ValueError:
-        print("Valid number required. Try again..")
-
 allHands_dict = {}
 deck = []
-# hand = []
-#deal a card from the deck
-# TODO need to say when all cards of the deck have been dealt
+
+
+def get_players() :
+    temp = {}
+    # force user to input an integer
+    while True:
+        try:
+            players = int(input("How many players "))
+            break
+        except ValueError:
+            print("Valid number required. Try again..")
+    temp = {"Player " + str(i): [] for i in (range(1, players + 1))}
+    temp["Dealer"] = []
+
+    return temp
+
+    temp={}
+
 def dealCard(dealt_card = 1):
     """
     docstring here
@@ -62,16 +69,23 @@ def dealCard(dealt_card = 1):
         else:
             return None
 
-allHands_dict = {"Player " + str(i): [] for i in (range(1, players + 1))}
-allHands_dict["Dealer"] = []
+# allHands_dict = get_players()
 
 # TODO dealCard() returns any thing, dispite it having a limit
-for i in range(1000):
-    allHands_dict["Player 1"].append(dealCard())
+# for i in range(1000):
+    #  allHands_dict["Player 1"].append(dealCard())
 
-allHands_dict["Player 1"] = list(filter(None, allHands_dict["Player 1"]))
+# allHands_dict["Player 1"] = list(filter(None, allHands_dict["Player 1"]))
 # print(type(allHands_dict))
-print(len(allHands_dict["Player 1"]), allHands_dict["Player 1"])
+# print(len(allHands_dict["Player 1"]), allHands_dict["Player 1"])
+
+game = True
+
+while game:
+
+    allHands_dict = get_players()
+
+    
 
 scrapy
 
