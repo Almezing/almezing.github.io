@@ -64,7 +64,7 @@ Experiment data leading up to their both is stored in the girls DNA.
 
 buttercup is panacea
 
-robbery involving threft of an ultra wealthy family heirloom passed dowm from generations. very strong sentamental jewelry 
+robbery involving threft of an ultra wealthy family heirloom passed dowm from generations. very strong sentamental towards the jewelry 
 
 professor's project valkyrie
 
