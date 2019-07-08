@@ -84,3 +84,5 @@ https://www.artstation.com/artwork/nQ8LNE
 https://www.artstation.com/artwork/lVlYGo
 
 chiral organisms free from disease with buttercup as the building block
+
+https://selenium-python.readthedocs.io/navigating.html?highlight=middle%20click
