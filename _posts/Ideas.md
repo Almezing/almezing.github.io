@@ -86,3 +86,5 @@ https://www.artstation.com/artwork/lVlYGo
 chiral organisms free from disease with buttercup as the building block
 
 https://selenium-python.readthedocs.io/navigating.html?highlight=middle%20click
+
+buttercup is somewhat an established cage fighter, but she takes bribes. even task to murdering her opponent. 
