@@ -87,7 +87,7 @@ chiral organisms free from disease with buttercup as the building block
 
 https://selenium-python.readthedocs.io/navigating.html?highlight=middle%20click
 
-buttercup is somewhat an established cage fighter, but she takes bribes. even task to murdering her opponent. 
+buttercup is somewhat an established cage fighter, but she takes bribes. even task to murdering her opponent. she wants out from the underground scene surrounded by criminal investments, bribes and gangster activity, for better prospects internationally on the ing and big screen, so she takes steps to do that. 
 
 https://www.homedepot.com/p/Defiant-Hartford-Aged-Bronze-Bed-and-Bath-Value-Pack-6-Pack-32TGX710BXC/306520427
 
