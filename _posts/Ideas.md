@@ -97,4 +97,6 @@ health insurance company - massa-care - your health, our problem
 
 theme - to go beyond
 
-exascale truck hijack
+exascale truck hijack 
+
+satellite as a service, city as a service. evil space veo movin from company to company and some how intergrating them. evil jeff bezos but he's a contractor ceo
