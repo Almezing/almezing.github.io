@@ -100,3 +100,7 @@ theme - to go beyond
 exascale truck hijack 
 
 satellite as a service, city as a service. evil space veo movin from company to company and some how intergrating them. evil jeff bezos but he's a contractor ceo
+
+how would people who grew up with technology around others. 
+  example:
+    A little girl who learns from an assistant service from a company. The child only knows how to give it commands and ask it questions, not knowing the manorisms invovled. She would be very direct and straight forward as, almost mimicking the assitant service responses. 
