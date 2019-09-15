@@ -37,27 +37,27 @@
 # a, b , c ,d = a_list
 
 # print(a, b, c, d,)
-players = input("Enter number of players: ")
+# players = input("Enter number of players: ")
 
 # if not players:
 #     print(True)
 # else:
 #     print(False)
-playerHands_dict = {}
+# playerHands_dict = {}
 
-try:
-    pass
-except ValueError: as identifier:
-    pass players :
+# try:
+#     pass
+# except ValueError: as identifier:
+#     pass players :
 
-    for i in range(int(players) + 1):
-        # print(eval(str(i > int(players) - 1)))
-        if i > int(players) - 1:
-            playerHands_dict["Dealer"] = 0
-        else:
-            playerHands_dict["Player " + str(i+1)] = 0
-else:
-    print('no number')
+#     for i in range(int(players) + 1):
+#         # print(eval(str(i > int(players) - 1)))
+#         if i > int(players) - 1:
+#             playerHands_dict["Dealer"] = 0
+#         else:
+#             playerHands_dict["Player " + str(i+1)] = 0
+# else:
+#     print('no number')
    
 #print(eval(str(i+1)))
 
@@ -65,10 +65,7 @@ else:
 
 # print(sorted(playerHands_dict)[-1])
 
-
-
 import random
-
 
 deck = {
     1 : 0,

@@ -1,5 +1,5 @@
 
-femme fatale - highest rank - maneater - blossom one of the few to complete the program.
+femme fatale - highest rank - maneater - blossom one of the few to complete the program. her code name is hibiscus. her rival is violet.
 
 coma, hack, dimension theory - story takes place in the false worlds after reawakening from a coma, restore from hack, reemerge from the rift. this makes the setting progressively weirder
 
@@ -64,7 +64,7 @@ Experiment data leading up to their both is stored in the girls DNA.
 
 buttercup is panacea
 
-robbery involving threft of an ultra wealthy family heirloom passed dowm from generations. very strong sentamental jewelry 
+robbery involving threft of an ultra wealthy family heirloom passed dowm from generations. very strong sentamental towards the jewelry 
 
 professor's project valkyrie
 
@@ -74,3 +74,36 @@ https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 
 https://scripter.co/notes/string-fns-nim-vs-python/
 
+<<<<<<< HEAD
+=======
+https://realpython.com/python-web-applications/#dynamic-web-app
+
+homo mechanica
+
+bloodrunner
+https://www.artstation.com/artwork/nQ8LNE
+
+https://www.artstation.com/artwork/lVlYGo
+
+chiral organisms free from disease with buttercup as the building block
+
+https://selenium-python.readthedocs.io/navigating.html?highlight=middle%20click
+
+buttercup is somewhat an established cage fighter, but she takes bribes. even task to murdering her opponent. she wants out from the underground scene surrounded by criminal investments, bribes and gangster activity, for better prospects internationally on the ing and big screen, so she takes steps to do that. but it involves a lot of money.
+
+https://www.homedepot.com/p/Defiant-Hartford-Aged-Bronze-Bed-and-Bath-Value-Pack-6-Pack-32TGX710BXC/306520427
+
+https://pagedout.institute/download/PagedOut_001_beta1.pdf
+
+health insurance company - massa-care - your health, our problem
+
+theme - to go beyond
+
+exascale truck hijack 
+
+satellite as a service, city as a service. evil space veo movin from company to company and some how intergrating them. evil jeff bezos but he's a contractor ceo
+
+how would people who grew up with technology around others. 
+  example:
+    A little girl who learns from an assistant service from a company. The child only knows how to give it commands and ask it questions, not knowing the manorisms invovled. She would be very direct and straight forward as, almost mimicking the assitant service responses. 
+>>>>>>> d1a10c5b1efab0d03251d686668b97279173b22a

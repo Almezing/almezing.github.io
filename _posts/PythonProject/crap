@@ -1,0 +1,37 @@
+temp_list = []
+print(type(temp_list))
+with open(txt_file) as f:
+    # for line in f:
+    #     print(line)
+    #     temp_list.append(line[0:33])
+
+    # line_string = str(f.readline)
+
+    
+    idx_line_string = 0
+    delimiter = "!!"
+    for line_string in f:
+        idx_delimiter = line_string.find(delimiter, 0, len(line_string))
+        if idx_delimiter != -1:
+            link_count = 0
+            # temp_list[idx_line_string].append(line_string[0:idx_delimiter])
+            temp_list[idx_line_string]. str(line_string[0:idx_delimiter])
+            idx_first_space = line_string.find((' '), idx_delimiter,len(line_string))
+            temp_list[idx_line_string][link_count].append(line_string[idx_delimiter:idx_first_space])
+
+            permissions_list = line_string[idx_first_space:].split(r'\W+')
+            for entry in permissions_list:
+                temp_list[idx_line_string][link_count][entry].append(permissions_list[entry])
+            link_count += 1
+        else:
+            idx_first_space = line_string.find(' ', 0,len(line_string))
+            permissions_list = line_string[idx_first_space:].split(r'\W+')
+            for entry in permissions_list:
+                temp_list[idx_line_string][link_count][entry].append(permissions_list[entry])
+            link_count += 1
+
+        idx_line_string += 1
+        if idx_line_string > 7:
+            break
+
+print(temp_list)
