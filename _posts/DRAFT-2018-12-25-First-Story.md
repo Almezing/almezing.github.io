@@ -316,7 +316,7 @@ The door opened up to a plain bed room, furnished with the bare necessities. Bed
 
 >{{Bubbles}}: OK.
 
->{{Blossom}}: I'll joining.
+>{{Blossom}}: I'll be joining.
 
 >{{Buttercup}}: What are you going to do? Give me first aid?
 
