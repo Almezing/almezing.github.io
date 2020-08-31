@@ -1,2 +1,1 @@
-
-Blog for writing stuff and showing it to others using :triangular_ruler: a flexible two-column Jekyll theme perfect for building personal sites, blogs, and portfolios.
+Pasted from <https://www.mmo-champion.com/threads/2443656-BfA-Alignment-Card-(lawful-vs-chaotic-good-vs-evil-neutral)/page7?p=50390672> 
